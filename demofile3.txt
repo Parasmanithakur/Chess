@@ -1,0 +1,1497 @@
+[Opening "Giuoco Piano"]
+
+['1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. b3 Nf6 5. Bb2 d6 6. d3 Bg4 7. h3 Bh5 8. Nbd2 a6 9. Qe2 Nd4 10']
+[Opening "Sicilian Defense: Modern Variations, Main Line"]
+
+['1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Bd3 g6 6. O-O Bg7 7. Be3 Nbd7 8. Qd2 a6 9. Nc3 b5 10']
+[Opening "King's Indian Defense: 3.Nc3"]
+
+['1. d4 Nf6 2. c4 g6 3. Nc3 c6 4. e4 d6 5. d5 c5 6. h3 Nbd7 7. Nf3 Nb6 8. e5 Nfd7 9. exd6 exd6 10']
+[Opening "Van't Kruijs Opening"]
+
+['1. e3 d6 2. b3 e6 3. Bb2 f6 4. g4 Nc6 5. h4 d5 6. Bg2 Bd6 7. Nc3 e5 8. g5 e4 9. Nxd5 Bd7 10']
+[Opening "French Defense: Steinitz Attack"]
+
+['1. e4 e6 2. e5 d5 3. exd6 cxd6 4. Nh3 Nf6 5. Bc4 d5 6. Bb5+ Bd7 7. a4 Qb6 8. Bxd7+ Nbxd7 9. O-O Bd6 10']
+[Opening "Four Knights Game: Scotch Variation Accepted"]
+
+['1. e4 e5 2. Nf3 Nc6 3. Nc3 Nf6 4. d4 exd4 5. Nxd4 Nxd4 6. Qxd4 c5 7. Qd3 a6 8. e5 Nh5 9. g4 Qe7 10']
+[Opening "Rat Defense: Small Center Defense"]
+
+['1. e4 e6 2. d4 d6 3. Nf3 Be7 4. Nc3 h6 5. h3 a6 6. Bc4 Nd7 7. O-O b5 8. Bb3 c6 9. d5 cxd5 10']
+[Opening "Queen's Pawn"]
+
+['1. d4 d6 2. Nf3 Nc6 3. Nc3 Bd7 4. d5 Ne5 5. Nxe5 dxe5 6. e4 e6 7. f4 exd5 8. Nxd5 Qh4+ 9. g3 Qd8 10']
+[Opening "Owen Defense"]
+
+['1. e4 b6 2. f4 Bb7 3. d3 e6 4. Nc3 Nf6 5. Bd2 d5 6. e5 Nfd7 7. Nf3 c5 8. d4 g6 9. Bb5 a6 10']
+[Opening "Sicilian Defense: Delayed Alapin"]
+
+['1. e4 c5 2. Nf3 d6 3. c3 Nc6 4. d4 cxd4 5. cxd4 g6 6. Bb5 Bd7 7. Nc3 Bg7 8. O-O Qb6 9. Be3 Qa5 10']
+[Opening "Indian Game"]
+
+['1. d4 Nf6 2. Nd2 c5 3. dxc5 e6 4. Nb3 a5 5. a4 Na6 6. Be3 Nd5 7. Bd4 Qc7 8. e4 Ndb4 9. Bxa6 Rxa6 10']
+[Opening "Bishop's Opening"]
+
+['1. e4 e5 2. Bc4 Bb4 3. c3 Ba5 4. f4 Nf6 5. d3 d6 6. Nf3 Nc6 7. fxe5 dxe5 8. Bxf7+ Kxf7 9. O-O Bg4 10']
+[Opening "Anderssen Opening"]
+
+['1. a3 e5 2. d4 Nc6 3. dxe5 Nxe5 4. b3 d5 5. Bb2 Bd6 6. e3 Nf6 7. Ne2 Be6 8. Nbc3 Qd7 9. h3 h6 10']
+[Opening "Owen Defense"]
+
+['1. e4 b6 2. Nf3 c6 3. Nc3 Ba6 4. d4 Bxf1 5. Kxf1 b5 6. Bf4 b4 7. Ne2 f6 8. Ng3 g5 9. Be3 g4 10']
+[Opening "Philidor Defense"]
+
+['1. e4 e5 2. Nf3 d6 3. d4 Bg4 4. dxe5 Bxf3 5. Qxf3 dxe5 6. Bc4 Nf6 7. Bg5 Be7 8. Bxf6 Bxf6 9. g4 Qd4 10']
+[Opening "Sicilian Defense: Bowdler Attack"]
+
+['1. e4 c5 2. Bc4 d6 3. h3 a6 4. c3 Nc6 5. Nf3 e6 6. d4 b5 7. Bb3 c4 8. Bc2 Nf6 9. O-O Be7 10']
+[Opening "King's Pawn Game: Damiano Defense"]
+
+['1. e4 e5 2. Nf3 f6 3. Bc4 Ne7 4. d4 Nec6 5. dxe5 Nxe5 6. Nxe5 fxe5 7. Qh5+ g6 8. Qxe5+ Qe7 9. Qxe7+ Bxe7 10']
+[Opening "Sicilian Defense: Snyder Variation"]
+
+['1. e4 c5 2. b3 Nc6 3. Bb2 e6 4. Bb5 Nf6 5. Bxc6 bxc6 6. Nc3 d5 7. d3 dxe4 8. dxe4 Qxd1+ 9. Rxd1 Be7 10']
+[Opening "Bird Opening"]
+
+['1. f4 d6 2. Nf3 Nc6 3. b3 Bg4 4. Bb2 Qd7 5. Nc3 e6 6. e3 e5 7. h3 Bh5 8. g4 Bg6 9. f5 Bxf5 10']
+[Opening "King's Pawn Game: Busch-Gass Gambit"]
+
+['1. e4 e5 2. Nf3 Bc5 3. Nxe5 Qf6 4. Nf3 d6 5. h3 Nh6 6. Nc3 O-O 7. b3 Re8 8. Bb2 d5 9. Nxd5 Rxe4+ 10']
+[Opening "Alekhine Defense: John Tracy Gambit"]
+
+['1. e4 Nf6 2. Nf3 Nxe4 3. Bc4 Nf6 4. d4 d5 5. Bb3 c6 6. c4 e6 7. cxd5 exd5 8. Bg5 Be7 9. O-O O-O 10']
+[Opening "Queen's Gambit Refused: Marshall Defense"]
+
+['1. d4 d5 2. c4 Nf6 3. Nc3 dxc4 4. e3 Be6 5. Nf3 c5 6. Ne5 Nc6 7. Qa4 cxd4 8. exd4 Bd7 9. Qxc4 Nxe5 10']
+[Opening "Sicilian Defense: Pin Variation"]
+
+['1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 Bb4 6. Nb5 a6 7. Nd6+ Bxd6 8. Qxd6 Qe7 9. Bf4 Nc6 10']
+[Opening "Nimzo-Larsen Attack"]
+
+['1. b3 e6 2. Bb2 d5 3. c4 dxc4 4. Nf3 cxb3 5. e4 bxa2 6. Nc3 Nc6 7. d4 Bd7 8. d5 exd5 9. exd5 Nce7 10']
+[Opening "Caro-Kann Defense"]
+
+['1. e4 c6 2. f4 g6 3. Bc4 Bg7 4. Bxf7+ Kxf7 5. Nf3 Ke8 6. O-O h5 7. d4 h4 8. Ne5 Bxe5 9. fxe5 h3 10']
+[Opening "Queen's Pawn Game"]
+
+['1. d4 d5 2. g3 Nc6 3. Bg2 e6 4. Nf3 Nh6 5. Bxh6 gxh6 6. O-O Qe7 7. Ne5 Nxe5 8. dxe5 Bg7 9. f4 b6 10']
+[Opening "King's Indian Defense"]
+
+['1. c4 Nf6 2. Nc3 g6 3. d4 Bg7 4. Bg5 O-O 5. e3 d6 6. Nf3 e5 7. dxe5 dxe5 8. Qxd8 Rxd8 9. Nxe5 h6 10']
+[Opening "Pirc Defense #4"]
+
+['1. e4 d6 2. Nf3 g6 3. d4 Bg7 4. c4 Nd7 5. Nc3 Ngf6 6. Be3 e5 7. dxe5 Ng4 8. h3 Nxe3 9. fxe3 Nxe5 10']
+[Opening "Sicilian Defense: Smith-Morra Gambit"]
+
+['1. e4 c5 2. d4 cxd4 3. c3 dxc3 4. Nxc3 Nc6 5. Bc4 e6 6. Nf3 h6 7. Bf4 Nf6 8. Nb5 d6 9. Bxd6 Bxd6 10']
+[Opening "Old Indian Defense"]
+
+['1. d4 d6 2. c4 Bf5 3. Nd2 e5 4. d5 c6 5. e4 Bg6 6. g3 cxd5 7. cxd5 f5 8. exf5 Bxf5 9. Qh5+ Bg6 10']
+[Opening "Yusupov-Rubinstein System"]
+
+['1. d4 Nf6 2. Nf3 e6 3. e3 b6 4. Bd3 Bb7 5. c3 Be7 6. Nbd2 O-O 7. O-O d6 8. Re1 Nbd7 9. e4 e5 10']
+[Opening "Sicilian Defense: McDonnell Attack"]
+
+['1. e4 c5 2. f4 e6 3. Nf3 b6 4. d3 Bb7 5. Be2 f5 6. e5 Ne7 7. c3 g6 8. d4 cxd4 9. cxd4 Bg7 10']
+[Opening "Carr Defense"]
+
+['1. e4 h6 2. Nf3 g5 3. d4 g4 4. Nh4 e5 5. g3 d5 6. exd5 Be7 7. dxe5 Bxh4 8. gxh4 Qxh4 9. Be3 Nd7 10']
+[Opening "Blackmar-Diemer Gambit #2"]
+
+['1. d4 Nf6 2. Nc3 d5 3. e4 dxe4 4. Nge2 Bf5 5. Ng3 Bg6 6. Bf4 e6 7. Bg5 Bb4 8. Qd2 Nc6 9. O-O-O O-O 10']
+[Opening "Philidor Defense #2"]
+
+['1. e4 e5 2. Nf3 d6 3. Nc3 Bg4 4. Be2 Nf6 5. O-O Be7 6. d4 exd4 7. Nxd4 Bd7 8. Qd3 O-O 9. Qg3 Kh8 10']
+[Opening "Philidor Defense: Exchange Variation #3"]
+
+['1. e4 e5 2. Nf3 d6 3. d4 exd4 4. Qxd4 Nf6 5. Bg5 Be7 6. e5 dxe5 7. Qxe5 O-O 8. Bd3 h6 9. h4 Nc6 10']
+[Opening "Ponziani Opening"]
+
+['1. e4 e5 2. Nf3 Nc6 3. c3 Bc5 4. b4 Bb6 5. h3 a6 6. a4 Nf6 7. Qc2 O-O 8. Ba3 Re8 9. g4 g6 10']
+[Opening "Scandinavian Defense"]
+
+['1. e4 d5 2. e5 g6 3. d4 Bg7 4. c3 Na6 5. f4 c5 6. Bxa6 bxa6 7. Ne2 f6 8. g3 Bg4 9. h3 Bxe2 10']
+[Opening "Sicilian Defense: Dragon Variation, Yugoslav Attack, Early Deviations"]
+
+['1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6 6. Be3 Bg7 7. f3 a6 8. Qd2 Nbd7 9. O-O-O b5 10']
+[Opening "Queen's Pawn Game: Chigorin Variation"]
+
+['1. d4 d5 2. Nc3 c6 3. h3 e6 4. Nf3 Bb4 5. Bd2 f5 6. a3 Bxc3 7. Bxc3 g6 8. Ne5 b5 9. e3 Qg5 10']
+[Opening "Pirc Defense: Classical Variation #2"]
+
+['1. e4 d6 2. Nf3 g6 3. d4 Nf6 4. Nc3 c6 5. Be3 b5 6. Qd2 b4 7. Ne2 Nxe4 8. Qd3 d5 9. Nd2 Ba6 10']
+[Opening "Ruy Lopez: Classical Variation, Central Variation"]
+
+['1. e4 e5 2. Nf3 Nc6 3. Bb5 Bc5 4. c3 Nge7 5. O-O O-O 6. d4 exd4 7. cxd4 Bb6 8. d5 Nb8 9. Nc3 d6 10']
+[Opening "Van't Kruijs Opening"]
+
+['1. e3 d6 2. Ne2 Nc6 3. Nbc3 e5 4. d4 exd4 5. Nxd4 Be6 6. Nxe6 fxe6 7. Bc4 Qe7 8. O-O Nf6 9. e4 d5 10']
+[Opening "Russian Game: Modern Attack, Symmetrical Variation"]
+
+['1. e4 e5 2. Nf3 Nf6 3. d4 d5 4. Nc3 exd4 5. Qxd4 dxe4 6. Nxe4 Qxd4 7. Nxd4 Nxe4 8. Bb5+ c6 9. Bc4 Bb4+ 10']
+[Opening "Queen's Pawn Game: Colle System"]
+
+['1. Nf3 d5 2. d4 Nf6 3. e3 g6 4. Bb5+ c6 5. Ba4 b5 6. Bb3 Bg7 7. Ne5 O-O 8. O-O Nfd7 9. Nxd7 Nxd7 10']
+[Opening "French Defense: Knight Variation"]
+
+['1. e4 e6 2. Nf3 Nf6 3. e5 Nd5 4. d4 b6 5. c3 Bb7 6. Bd3 h6 7. O-O g5 8. h3 Rg8 9. Nh2 d6 10']
+[Opening "King's Pawn Game: Napoleon Attack"]
+
+['1. e4 e5 2. Qf3 Nf6 3. d3 Be7 4. Be2 d5 5. exd5 Bg4 6. Qg3 Bxe2 7. Nxe2 Qxd5 8. Nbc3 Qa5 9. O-O Nc6 10']
+[Opening "Anderssen Opening"]
+
+['1. a3 e5 2. b3 d5 3. Bb2 Nc6 4. e3 Bf5 5. Ne2 Bd6 6. h3 Nf6 7. g4 Be4 8. Rg1 Bf3 9. d3 Qe7 10']
+[Opening "Sicilian Defense: Nyezhmetdinov-Rossolimo Attack"]
+
+['1. e4 c5 2. Nf3 Nc6 3. Bb5 e6 4. c3 Nf6 5. Qe2 d6 6. O-O Be7 7. e5 Nd5 8. Bxc6+ bxc6 9. exd6 Bxd6 10']
+[Opening "Philidor Defense"]
+
+['1. e4 e5 2. Nf3 d6 3. d4 Bg4 4. dxe5 Bxf3 5. gxf3 dxe5 6. Qxd8+ Kxd8 7. Bb5 c6 8. Bc4 Ke7 9. Nc3 b5 10']
+[Opening "Queen's Pawn Game: Chigorin Variation"]
+
+['1. d4 d5 2. Nf3 Nc6 3. g3 Bg4 4. Bg2 Bxf3 5. Bxf3 Nxd4 6. Qxd4 e6 7. Qd3 Nf6 8. Qb5+ Qd7 9. Qxb7 Rc8 10']
+[Opening "Alekhine Defense: Two Pawn Attack"]
+
+['1. e4 Nf6 2. e5 Nd5 3. c4 Nb6 4. Nc3 d6 5. exd6 cxd6 6. Nf3 g6 7. d4 Bg7 8. c5 dxc5 9. Bb5+ Nc6 10']
+[Opening "Caro-Kann Defense"]
+
+['1. e4 c6 2. f4 d5 3. e5 Bf5 4. h3 h6 5. d4 e6 6. Bd3 Bxd3 7. Qxd3 c5 8. c3 cxd4 9. cxd4 Ne7 10']
+[Opening "French Defense: Steinitz Attack"]
+
+['1. e4 e6 2. e5 d5 3. exd6 Bxd6 4. Bc4 Nf6 5. Qf3 O-O 6. Nh3 Nc6 7. O-O Ne5 8. Qe2 Neg4 9. g3 e5 10']
+[Opening "Sicilian Defense: Bowdler Attack"]
+
+['1. e4 c5 2. Bc4 d6 3. Bxf7+ Kxf7 4. f4 Nf6 5. d3 g6 6. Nf3 Bg7 7. Ng5+ Ke8 8. O-O Nbd7 9. Ne6 Qb6 10']
+[Opening "Zukertort Opening: Basman Defense"]
+
+['1. Nf3 h6 2. e4 d6 3. d4 a6 4. Nc3 e6 5. d5 e5 6. b3 Be7 7. Bb2 Nd7 8. Na4 Ndf6 9. c4 Bd7 10']
+[Opening "Queen's Gambit Refused: Albin Countergambit"]
+
+['1. d4 d5 2. c4 e5 3. dxe5 d4 4. e3 Nc6 5. exd4 Qxd4 6. Qxd4 Nxd4 7. Bd3 Be6 8. Nf3 Nxf3+ 9. gxf3 O-O-O 10']
+[Opening "Van't Kruijs Opening"]
+
+['1. e3 d6 2. b3 Nc6 3. Bb2 e5 4. f4 e4 5. Nc3 d5 6. d3 f5 7. dxe4 dxe4 8. Qxd8+ Nxd8 9. O-O-O g6 10']
+[Opening "Sicilian Defense: McDonnell Attack"]
+
+['1. e4 c5 2. f4 e6 3. Nf3 Nc6 4. Bb5 Nf6 5. d3 a6 6. Bxc6 bxc6 7. O-O d5 8. e5 Nd7 9. c3 g6 10']
+[Opening "King's Pawn Game: Maroczy Defense"]
+
+[]
+[Opening "Giuoco Piano"]
+
+['1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. h4 Nf6 5. Ng5 O-O 6. d4 Bxd4 7. c3 Bb6 8. Be3 Nxe4 9. Qh5 Nf6 10']
+[Opening "Horwitz Defense"]
+
+['1. d4 e6 2. g3 a6 3. Bg2 c5 4. c3 cxd4 5. cxd4 d5 6. Nc3 Bb4 7. Bd2 Qb6 8. e3 Nc6 9. Nf3 Nf6 10']
+[Opening "French Defense: Exchange Variation"]
+
+['1. e4 e6 2. d4 d5 3. exd5 exd5 4. Bd3 Be7 5. h3 Nf6 6. Nf3 O-O 7. O-O Nbd7 8. c3 Re8 9. Bg5 h6 10']
+[Opening "Philidor Defense #3"]
+
+['1. e4 e5 2. Nf3 d6 3. Bc4 h6 4. d3 a6 5. Nc3 Nc6 6. O-O Nf6 7. Bd5 Nd4 8. h3 c6 9. Bb3 b5 10']
+[Opening "Van't Kruijs Opening"]
+
+['1. e3 e6 2. b3 d5 3. Bb2 c5 4. g4 Nc6 5. Bg2 e5 6. h4 Be6 7. Nc3 Bd6 8. Nxd5 Bxd5 9. Bxd5 e4 10']
+[Opening "Sicilian Defense: Bowdler Attack"]
+
+['1. e4 c5 2. Bc4 d6 3. Nc3 e6 4. a3 a6 5. Nf3 b5 6. Ba2 b4 7. Ne2 bxa3 8. bxa3 e5 9. Nc3 Nh6 10']
+[Opening "Sicilian Defense: Closed"]
+
+['1. e4 c5 2. Nc3 e6 3. Bc4 a6 4. a4 Nc6 5. Nf3 Qc7 6. d4 cxd4 7. Nxd4 Nf6 8. Nxc6 Qxc6 9. Bd3 h5 10']
+[Opening "Queen's Pawn Game: Zukertort Variation"]
+
+['1. d4 d5 2. Nf3 e6 3. e3 g6 4. c4 Bg7 5. c5 b6 6. b4 a5 7. bxa5 Rxa5 8. cxb6 cxb6 9. Bd2 Ra8 10']
+[Opening "Queen's Gambit Refused: Marshall Defense"]
+
+['1. d4 d5 2. c4 Nf6 3. Nc3 dxc4 4. e4 Nc6 5. Bxc4 e5 6. d5 Nd4 7. Be3 Bc5 8. Nge2 Bg4 9. O-O Qe7 10']
+[Opening "Indian Game: Spielmann-Indian"]
+
+['1. d4 Nf6 2. Nf3 c5 3. c3 d5 4. e3 Nc6 5. Bd3 Bg4 6. h3 Bxf3 7. Qxf3 e5 8. dxe5 Nxe5 9. Qe2 c4 10']
+[Opening "Sicilian Defense: Delayed Alapin"]
+
+['1. e4 c5 2. Nf3 d6 3. c3 Nf6 4. d4 cxd4 5. cxd4 Nc6 6. Nc3 a6 7. Bc4 Bg4 8. h3 Bh5 9. Be3 e6 10']
+[Opening "French Defense: Two Knights Variation"]
+
+['1. e4 e6 2. Nf3 d5 3. Nc3 d4 4. Ne2 Bc5 5. c3 dxc3 6. Nxc3 b6 7. Na4 Qe7 8. Nxc5 Qxc5 9. Bd3 Nf6 10']
+[Opening "Sicilian Defense: McDonnell Attack"]
+
+['1. e4 c5 2. f4 d6 3. Nf3 Bg4 4. Bc4 Nc6 5. c3 Bxf3 6. Qxf3 e6 7. O-O Nf6 8. d3 Be7 9. f5 O-O 10']
+[Opening "King's Pawn Game: Macleod Attack"]
+
+['1. e4 e5 2. c3 Nc6 3. d4 Nf6 4. d5 Ne7 5. Bd3 Ng6 6. c4 Bc5 7. Nc3 a6 8. Be3 Bxe3 9. fxe3 Qe7 10']
+[Opening "Queen's Gambit Refused: Chigorin Defense #3"]
+
+['1. d4 d5 2. c4 dxc4 3. Nc3 Nc6 4. Bf4 Qxd4 5. Qxd4 Nxd4 6. O-O-O Ne6 7. Nd5 f6 8. e3 g5 9. Bg3 Kf7 10']
+[Opening "Sicilian Defense: Delayed Alapin"]
+
+['1. e4 c5 2. Nf3 d6 3. c3 Nc6 4. Bb5 Bd7 5. O-O g6 6. d4 cxd4 7. cxd4 Nf6 8. Nc3 Bg7 9. d5 Ne5 10']
+[Opening "English Opening: King's English Variation, Four Knights Variation #2"]
+
+['1. c4 e5 2. Nc3 Nf6 3. Nf3 Nc6 4. d4 exd4 5. Nxd4 Nxd4 6. Qxd4 Be7 7. g3 O-O 8. Bg2 Rb8 9. Qxa7 d5 10']
+[Opening "Philidor Defense #3"]
+
+['1. e4 e5 2. Nf3 d6 3. Bc4 Bg4 4. h3 Bh5 5. Be2 Nc6 6. Ng1 Bg6 7. d3 Nf6 8. Nc3 d5 9. Bg5 Be7 10']
+[Opening "Four Knights Game: Double Spanish"]
+
+['1. e4 e5 2. Nf3 Nf6 3. Nc3 Nc6 4. Bb5 Bb4 5. Bxc6 bxc6 6. O-O d5 7. d3 Bb7 8. a3 Bc5 9. b4 Bd6 10']
+[Opening "Queen's Pawn Game"]
+
+['1. d4 d5 2. g3 g6 3. Bg2 Bg7 4. Nd2 c6 5. c4 Bxd4 6. cxd5 cxd5 7. Qa4+ Nc6 8. e3 Bg7 9. Rb1 Bd7 10']
+[Opening "King's Pawn Game: Maroczy Defense"]
+
+['1. e4 d6 2. d4 e5 3. Nc3 exd4 4. Qxd4 Nc6 5. Bb5 Bd7 6. Bxc6 Bxc6 7. Nf3 Nf6 8. Bf4 Be7 9. O-O-O O-O 10']
+[Opening "Anderssen Opening"]
+
+['1. a3 d6 2. d4 e6 3. e3 Bd7 4. b3 Nc6 5. Bb2 e5 6. dxe5 dxe5 7. Ne2 Nf6 8. Nbc3 Bd6 9. Qd2 O-O 10']
+[Opening "Philidor Defense"]
+
+['1. e4 e5 2. Nf3 d6 3. d4 f6 4. dxe5 fxe5 5. Bc4 Bg4 6. Nc3 Nf6 7. Bg5 c6 8. h3 Bh5 9. g4 Bg6 10']
+[Opening "French Defense: La Bourdonnais Variation"]
+
+['1. e4 e6 2. f4 b6 3. Nf3 Bb7 4. d3 h6 5. Nc3 g6 6. Be3 Bg7 7. Qd2 Ne7 8. O-O-O O-O 9. g4 Kh7 10']
+[Opening "King's Gambit"]
+
+['1. e4 e5 2. f4 f6 3. Nf3 d6 4. fxe5 fxe5 5. c3 Nf6 6. d4 exd4 7. cxd4 Bg4 8. Bd3 Nc6 9. O-O Nxd4 10']
+[Opening "Scandinavian Defense: Gubinsky-Melts Defense"]
+
+['1. e4 d5 2. exd5 Qxd5 3. Nc3 Qd6 4. d4 Nc6 5. d5 Nf6 6. dxc6 Qe6+ 7. Be2 Qxc6 8. Bb5 Bd7 9. Bxc6 Bxc6 10']
+[Opening "Sicilian Defense: Open #2"]
+
+['1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. c3 dxc3 5. Bc4 cxb2 6. Bxb2 d6 7. O-O Bg4 8. Qe2 Qb6 9. Nbd2 Ne5 10']
+[Opening "Van't Kruijs Opening"]
+
+['1. e3 e6 2. b3 Bd6 3. Bb2 Nf6 4. g4 Nc6 5. g5 Nd5 6. h4 Rg8 7. Qh5 b6 8. Qxh7 Rf8 9. Bxg7 Bb7 10']
+[Opening "Van't Kruijs Opening"]
+
+['1. e3 b6 2. b3 Bb7 3. Bb2 f6 4. Qh5+ g6 5. Qh4 e5 6. f3 h5 7. Bd3 g5 8. Bg6+ Ke7 9. Qb4+ c5 10']
+[Opening "Scandinavian Defense"]
+
+['1. e4 d5 2. e5 c6 3. h3 e6 4. Nf3 Nd7 5. d4 Nb6 6. b3 Bd7 7. Bd3 Qc7 8. c3 Be7 9. O-O O-O-O 10']
+[Opening "Pirc Defense #4"]
+
+['1. e4 d6 2. Nc3 Nf6 3. Nf3 Bg4 4. h3 Bh5 5. g4 Bg6 6. d3 Nc6 7. Bg5 e6 8. Qd2 Be7 9. O-O-O a6 10']
+[Opening "Saragossa Opening"]
+
+['1. c3 d6 2. Qa4+ Bd7 3. Qb3 b6 4. e3 c5 5. Bb5 e6 6. d4 a6 7. Bf1 Nf6 8. c4 Be7 9. d5 exd5 10']
+[Opening "Ponziani Opening: Jaenisch Counterattack"]
+
+['1. e4 Nc6 2. Nf3 e5 3. c3 Nf6 4. d4 Bd6 5. d5 Ne7 6. Bd3 a6 7. b3 b6 8. Bb2 Bb7 9. c4 Ng6 10']
+[Opening "Caro-Kann Defense"]
+
+['1. e4 c6 2. f4 d5 3. exd5 cxd5 4. d4 e6 5. Nf3 Nf6 6. Be3 Nc6 7. c3 Bd6 8. Nbd2 O-O 9. Qc2 Nd7 10']
+[Opening "French Defense: Knight Variation"]
+
+['1. e4 e6 2. Nf3 d6 3. d4 Nd7 4. d5 e5 5. Bg5 Be7 6. Be3 b6 7. c4 Nc5 8. Bxc5 bxc5 9. Nc3 Bg4 10']
+[Opening "Philidor Defense: Exchange Variation #2"]
+
+['1. e4 e5 2. Nf3 d6 3. d4 exd4 4. Nxd4 Qe7 5. Nc3 c6 6. Bd3 g6 7. O-O Bg7 8. Nf3 Nf6 9. Re1 Be6 10']
+[Opening "Hippopotamus Defense #2"]
+
+['1. e4 Nh6 2. Nf3 b6 3. d4 Bb7 4. Bxh6 gxh6 5. Bd3 Rg8 6. c4 Rxg2 7. Rg1 Rxg1+ 8. Nxg1 Nc6 9. Qh5 Nxd4 10']
+[Opening "Queen's Gambit Declined"]
+
+['1. d4 e6 2. c4 d5 3. e3 dxc4 4. Bxc4 Nf6 5. Nc3 Be7 6. Nf3 O-O 7. O-O a6 8. Qc2 b5 9. Bd3 Bb7 10']
+[Opening "Rat Defense: Harmonist"]
+
+['1. e4 d6 2. f4 Nc6 3. Nf3 Bd7 4. Bc4 e5 5. Ng5 Nh6 6. O-O exf4 7. Nxf7 Nxf7 8. Bxf7+ Kxf7 9. Rxf4+ Ke8 10']
+[Opening "French Defense: Knight Variation"]
+
+['1. e4 e6 2. Nf3 c6 3. d4 g6 4. Bg5 Be7 5. Bxe7 Qxe7 6. e5 d6 7. Qd2 dxe5 8. dxe5 f6 9. Be2 fxe5 10']
+[Opening "Sicilian Defense: Paulsen-Basman Defense"]
+
+['1. d4 e6 2. e4 c5 3. Nf3 cxd4 4. Nxd4 Bc5 5. c3 e5 6. Nf5 Qf6 7. Be3 Bxe3 8. fxe3 g6 9. Nd6+ Kd8 10']
+[Opening "Queen's Pawn Game: Krause Variation"]
+
+['1. d4 d5 2. Nf3 c5 3. c4 Nc6 4. dxc5 d4 5. Qa4 e5 6. Nxe5 Bd7 7. Nxc6 Bxc6 8. Qc2 Bxc5 9. a3 a5 10']
+[Opening "Queen's Pawn Game #2"]
+
+['1. d4 d5 2. e3 Nc6 3. Nf3 e6 4. c4 Nf6 5. a3 dxc4 6. Bxc4 a6 7. O-O Ne4 8. Re1 Bd6 9. Bd3 h6 10']
+[Opening "Horwitz Defense"]
+
+[]
+[Opening "Australian Defense"]
+
+['1. d4 Na6 2. c4 Nh6 3. e4 d6 4. Nc3 Ng4 5. h3 Nf6 6. Nf3 Nd7 7. Be3 Nb6 8. c5 dxc5 9. Bxa6 cxd4 10']
+[Opening "Sicilian Defense: Lasker-Dunne Attack"]
+
+['1. e4 c5 2. g3 Nc6 3. Bg2 d6 4. Ne2 Nf6 5. O-O e5 6. c3 Be7 7. d4 O-O 8. d5 Nb8 9. c4 b5 10']
+[Opening "Van't Kruijs Opening"]
+
+['1. e3 e6 2. d4 d5 3. Nf3 g6 4. Bd2 Bg7 5. Be2 b6 6. a3 Bb7 7. Nc3 Ne7 8. Bb5+ c6 9. Bd3 Ba6 10']
+[Opening "Zukertort Opening: Pirc Invitation"]
+
+['1. Nf3 d6 2. d3 Nc6 3. Nfd2 Be6 4. Nc3 Nf6 5. Nce4 Nxe4 6. Nxe4 g6 7. Ng5 Bg7 8. Nxe6 fxe6 9. h4 Qd7 10']
+[Opening "Bishop's Opening: Berlin Defense"]
+
+['1. e4 e5 2. Bc4 Nf6 3. d3 Nc6 4. c3 g6 5. h3 d6 6. Nf3 Bg7 7. O-O O-O 8. Nh2 Be6 9. Bb5 a6 10']
+[Opening "Sicilian Defense #2"]
+
+['1. e4 c5 2. d4 cxd4 3. Nf3 d6 4. Bc4 a6 5. Qxd4 Nc6 6. Qd5 e6 7. Qh5 g6 8. Qh3 Nf6 9. Bg5 Bg7 10']
+[Opening "French Defense: La Bourdonnais Variation"]
+
+['1. f4 e6 2. e4 b6 3. d4 Bb7 4. Nc3 Bb4 5. Bd3 Nf6 6. Bd2 Bxc3 7. Bxc3 Nxe4 8. Bxe4 Bxe4 9. Nf3 d5 10']
+[Opening "English Opening: Four Knights System, Nimzowitsch Variation"]
+
+['1. e4 e5 2. Nf3 Nc6 3. c4 Nf6 4. Nc3 Bc5 5. h3 d6 6. a3 Nh5 7. b4 Bd4 8. Nxd4 Nxd4 9. g4 Nf4 10']
+[Opening "Italian Game: Anti-Fried Liver Defense"]
+
+['1. e4 e5 2. Nf3 Nc6 3. Bc4 h6 4. Nc3 Nf6 5. d3 Bb4 6. Bd2 Bxc3 7. Bxc3 d6 8. h3 Be6 9. Bb5 a6 10']
+[Opening "Anderssen Opening"]
+
+['1. a3 e5 2. d4 f6 3. b3 d5 4. dxe5 fxe5 5. Bb2 d4 6. e3 g6 7. exd4 e4 8. d5 Nf6 9. Nc3 Nxd5 10']
+[Opening "Horwitz Defense"]
+
+['1. d4 e6 2. e3 Qf6 3. c3 d5 4. Qa4+ c6 5. Qb3 b5 6. Bxb5 a6 7. Be2 Nd7 8. Qa4 Nb6 9. Qxc6+ Bd7 10']
+[Opening "Indian Game: Spielmann-Indian"]
+
+['1. d4 Nf6 2. Nf3 c5 3. c3 d5 4. e3 Bg4 5. Nbd2 Nc6 6. Be2 Rc8 7. O-O h5 8. h3 Bxf3 9. Bxf3 e5 10']
+[Opening "French Defense: Steinitz Attack"]
+
+['1. e4 e6 2. e5 d5 3. exd6 Bxd6 4. d4 Nf6 5. Bg5 Nc6 6. c4 O-O 7. c5 Be7 8. Bxf6 Bxf6 9. Nf3 Nxd4 10']
+[Opening "Indian Game"]
+
+['1. d4 Nf6 2. Bf4 d5 3. Nc3 Bg4 4. Nb5 Na6 5. g3 e6 6. Bg2 Bb4+ 7. Nc3 O-O 8. Bd2 c6 9. Nf3 Qb6 10']
+[Opening "Sicilian Defense: French Variation, Normal"]
+
+['1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nf6 5. e5 Nd5 6. Bc4 Nb6 7. Qe2 Nc6 8. Nxc6 bxc6 9. O-O Be7 10']
+[Opening "Sicilian Defense: McDonnell Attack"]
+
+['1. e4 c5 2. f4 e6 3. Nf3 Nc6 4. Bb5 a6 5. Bxc6 bxc6 6. d3 d5 7. e5 Ne7 8. Nc3 h5 9. Qe2 Nf5 10']
+[Opening "Scandinavian Defense: Blackburne-Kloosterboer Gambit"]
+
+['1. e4 d5 2. exd5 c6 3. dxc6 Nf6 4. cxb7 Bxb7 5. d4 e6 6. c4 Be7 7. Nf3 O-O 8. Nc3 Nc6 9. Be3 a5 10']
+[Opening "Ruy Lopez: Steinitz Defense"]
+
+['1. e4 e5 2. Nf3 Nc6 3. Bb5 d6 4. O-O Bg4 5. h3 Bh5 6. g4 Bg6 7. d3 Be7 8. Nc3 Nf6 9. g5 Nh5 10']
+[Opening "King's Pawn Game"]
+
+['1. e4 e5 2. g3 Nf6 3. Bg2 g6 4. Ne2 Bg7 5. O-O O-O 6. c3 d6 7. d4 c6 8. dxe5 dxe5 9. Qxd8 Rxd8 10']
+[Opening "French Defense: Knight Variation"]
+
+['1. e4 e6 2. Nf3 Bc5 3. d4 Bb6 4. Be3 a6 5. Ne5 d6 6. Ng4 h5 7. h3 hxg4 8. Qxg4 e5 9. Qxg7 Qf6 10']
+[Opening "Nimzo-Larsen Attack"]
+
+['1. b3 d6 2. Bb2 e5 3. e3 f5 4. Nf3 Nf6 5. d4 e4 6. Nfd2 d5 7. c4 c6 8. Nc3 Nbd7 9. f4 Nb6 10']
+[Opening "Philidor Defense #2"]
+
+['1. e4 e5 2. Nf3 d6 3. Nc3 c6 4. h3 g5 5. d4 f6 6. dxe5 fxe5 7. Bxg5 Qd7 8. Bf6 Bg7 9. Bxe5 dxe5 10']
+[Opening "Sicilian Defense: Staunton-Cochrane Variation"]
+
+['1. c4 c5 2. e4 e5 3. Nc3 d6 4. g3 Nc6 5. Bg2 Nf6 6. d3 Be7 7. Nd5 O-O 8. Ne3 Nd4 9. b3 h6 10']
+[Opening "Queen's Pawn Game: Colle System, Anti-Colle"]
+
+['1. d4 d5 2. Nf3 Bf5 3. e3 Nf6 4. Bd3 Bxd3 5. Qxd3 Nc6 6. O-O e6 7. Nc3 Bd6 8. Ne5 Nb4 9. Qb5+ Nc6 10']
+[Opening "Sicilian Defense: Delayed Alapin"]
+
+['1. e4 c5 2. Nf3 d6 3. c3 Nf6 4. Qc2 Nc6 5. Bb5 Qc7 6. O-O g6 7. d4 cxd4 8. cxd4 Bd7 9. d5 Nxe4 10']
+[Opening "Modern Defense"]
+
+['1. e4 g6 2. f3 Bg7 3. d3 d6 4. c4 Nd7 5. b3 b6 6. Bb2 Bb7 7. Bxg7 f6 8. Bxh8 e5 9. Bxf6 Ndxf6 10']
+[Opening "Sicilian Defense: McDonnell Attack"]
+
+['1. e4 c5 2. f4 Nc6 3. Nf3 d6 4. Bc4 g6 5. d3 h6 6. f5 g5 7. h4 g4 8. Nh2 h5 9. Nxg4 hxg4 10']
+[Opening "Ruy Lopez: Exchange Variation, Normal Variation"]
+
+['1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Bxc6 dxc6 5. O-O Bg4 6. h3 Bxf3 7. Qxf3 Nf6 8. d3 Be7 9. Nd2 O-O 10']
+[Opening "Anderssen Opening"]
+
+['1. a3 e5 2. d4 e4 3. e3 d5 4. b3 Nc6 5. Bb2 Nf6 6. Ne2 Bg4 7. h3 Bh5 8. g4 Bg6 9. Qd2 h5 10']
+[Opening "King's Pawn Game: Leonardis Variation"]
+
+['1. e4 e5 2. d3 d6 3. h3 c5 4. Nc3 Na6 5. a3 Nc7 6. Nf3 h6 7. g3 Nf6 8. Bg2 g5 9. Be3 g4 10']
+[Opening "Scotch Game"]
+
+['1. e4 Nc6 2. Nf3 e5 3. d4 Bc5 4. d5 Nd4 5. Nxd4 Bxd4 6. c3 Bb6 7. Be3 Bxe3 8. fxe3 Qh4+ 9. Ke2 Qxe4 10']
+[Opening "King's Pawn Game: Busch-Gass Gambit"]
+
+['1. e4 e5 2. Nf3 Bc5 3. d4 Bb6 4. Bc4 Nf6 5. Nc3 Nc6 6. Be3 exd4 7. Nxd4 Nxd4 8. Bxd4 Bxd4 9. Qxd4 d5 10']
+[Opening "King's Pawn Game: Leonardis Variation"]
+
+['1. e4 e5 2. d3 Nf6 3. Be2 Nc6 4. Nf3 Bb4+ 5. c3 Bd6 6. a3 b6 7. d4 Bb7 8. dxe5 Nxe5 9. Nxe5 Bxe5 10']
+[Opening "Zukertort Opening: Pirc Invitation"]
+
+['1. Nf3 d6 2. Nc3 Nc6 3. b3 e5 4. Bb2 f5 5. e3 Nf6 6. d4 e4 7. Nd2 d5 8. f4 exf3 9. Nxf3 Bd6 10']
+[Opening "Van't Kruijs Opening"]
+
+['1. e3 e6 2. d4 d5 3. g3 b6 4. Bg2 Bd7 5. b3 Be7 6. Bb2 Nf6 7. Ne2 Bb4+ 8. c3 Be7 9. O-O Nc6 10']
+[Opening "Giuoco Piano"]
+
+['1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. h4 Nf6 5. Ng5 O-O 6. Bxf7+ Rxf7 7. Nxf7 Kxf7 8. Qf3 d5 9. g4 dxe4 10']
+[Opening "Scandinavian Defense"]
+
+[]
+[Opening "Sicilian Defense: French Variation"]
+
+['1. e4 e6 2. Nf3 c5 3. d3 d5 4. exd5 exd5 5. Be2 Nf6 6. O-O Be7 7. Bf4 O-O 8. Ne5 Nbd7 9. d4 cxd4 10']
+[Opening "King's Pawn Game: McConnell Defense"]
+
+['1. e4 e5 2. Nf3 Qf6 3. Nc3 c6 4. Bc4 Nh6 5. h3 Bc5 6. O-O O-O 7. a3 b5 8. b4 Bd4 9. Ba2 d6 10']
+[Opening "French Defense: King's Indian Attack"]
+
+['1. d3 e6 2. e4 b6 3. Be3 Bb7 4. Nc3 h6 5. Qd2 Nf6 6. O-O-O Ng4 7. f4 Nxe3 8. Qxe3 Nc6 9. Nf3 g6 10']
+[Opening "Sicilian Defense: Smith-Morra Gambit #2"]
+
+['1. e4 c5 2. d4 cxd4 3. Qxd4 Nc6 4. Qd1 d6 5. Nf3 Nf6 6. Nc3 g6 7. Bb5 Bd7 8. O-O Bg7 9. Be3 a6 10']
+[Opening "Sicilian Defense: Closed"]
+
+['1. e4 c5 2. Nc3 e6 3. Nf3 Nc6 4. d3 d5 5. exd5 exd5 6. Bg5 Nf6 7. Bf4 Be7 8. d4 cxd4 9. Nb5 Qa5+ 10']
+[Opening "Sicilian Defense: Old Sicilian"]
+
+['1. e4 c5 2. Nf3 Nc6 3. Bc4 a6 4. Nc3 b5 5. Bd5 Bb7 6. d4 e6 7. Bxc6 Bxc6 8. d5 exd5 9. exd5 Bb7 10']
+[Opening "Philidor Defense #3"]
+
+['1. e4 e5 2. Nf3 d6 3. Bc4 Nc6 4. O-O Bd7 5. c3 h6 6. d3 Nf6 7. Be3 Be7 8. Nbd2 O-O 9. Bb3 a6 10']
+[Opening "Scotch Game"]
+
+['1. e4 e5 2. Nf3 Nc6 3. d4 d6 4. d5 Nf6 5. dxc6 bxc6 6. Nc3 c5 7. Nd5 Nxd5 8. exd5 Be7 9. Bb5+ Bd7 10']
+[Opening "Caro-Kann Defense: Classical Variation"]
+
+['1. e4 d5 2. Nc3 c6 3. d4 dxe4 4. Nxe4 Bf5 5. f3 Qa5+ 6. c3 Qd5 7. g4 Bxe4 8. fxe4 Qxe4+ 9. Qe2 Qxh1 10']
+[Opening "Sicilian Defense: Smith-Morra Gambit #2"]
+
+['1. e4 c5 2. d4 cxd4 3. Qxd4 Nc6 4. Qa4 d6 5. Nf3 Bd7 6. Qb3 Nf6 7. Nc3 g6 8. Bd3 Bg7 9. Bg5 a6 10']
+[Opening "Ponziani Opening"]
+
+['1. e4 e5 2. Nf3 Nc6 3. c3 a6 4. Bc4 h6 5. Qb3 Qe7 6. O-O b5 7. Bd5 Bb7 8. Nxe5 Nf6 9. Nxc6 Bxc6 10']
+[Opening "French Defense: Knight Variation"]
+
+['1. e4 e6 2. Nf3 d6 3. d4 Nd7 4. Nc3 c6 5. Bd3 Be7 6. Be3 Ngf6 7. h3 e5 8. Qd2 O-O 9. O-O-O Qa5 10']
+[Opening "Giuoco Piano"]
+
+['1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. Nc3 d6 5. h3 Nf6 6. d3 O-O 7. Bg5 Na5 8. Nd5 Nxc4 9. dxc4 Be6 10']
+[Opening "Nimzowitsch Defense"]
+
+['1. e4 Nc6 2. g3 e5 3. Bg2 Nf6 4. Ne2 d6 5. O-O Bg4 6. h3 Bh5 7. g4 Bg6 8. d3 h5 9. g5 Nh7 10']
+[Opening "French Defense: La Bourdonnais Variation"]
+
+['1. e4 e6 2. f4 b6 3. Nf3 Bb7 4. Bd3 g6 5. O-O Bg7 6. Nc3 Nf6 7. e5 Nd5 8. Nxd5 Bxd5 9. b3 Bb7 10']
+[Opening "King's Pawn Game: Busch-Gass Gambit"]
+
+['1. e4 e5 2. Nf3 Bc5 3. d4 Bb4+ 4. c3 Ba5 5. b4 Bb6 6. Bc4 c6 7. Ng5 d5 8. exd5 cxd5 9. Bb3 Nf6 10']
+[Opening "Anderssen Opening"]
+
+['1. a3 e5 2. d4 exd4 3. Qxd4 Nc6 4. Qd2 Nf6 5. b3 d5 6. Bb2 Be7 7. e3 O-O 8. Ne2 Ne4 9. Qd1 Bh4 10']
+[Opening "Petrov's Defense"]
+
+['1. e4 e5 2. Nf3 Nf6 3. Qe2 Nc6 4. c3 Bc5 5. d4 exd4 6. cxd4 Bb4+ 7. Bd2 Bxd2+ 8. Qxd2 Nxe4 9. Qd3 Qe7 10']
+[Opening "Zukertort Opening: Queen's Gambit Invitation"]
+
+[]
+[Opening "Sicilian Defense: Dragon Variation, Yugoslav Attack, Early Deviations"]
+
+['1. e4 c5 2. d4 cxd4 3. Nf3 d6 4. Nxd4 Nf6 5. Nc3 g6 6. Be3 Bg7 7. f3 a6 8. Bc4 b5 9. Bb3 Bb7 10']
+[Opening "Italian Game: Classical Variation #2"]
+
+['1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. c3 d6 5. d4 exd4 6. cxd4 Bb4+ 7. Nc3 Bg4 8. O-O Nf6 9. Re1 O-O 10']
+[Opening "Sicilian Defense: Lasker-Dunne Attack"]
+
+['1. e4 c5 2. g3 Nc6 3. Bg2 e5 4. Ne2 Nf6 5. O-O Be7 6. c3 O-O 7. d4 cxd4 8. cxd4 exd4 9. Nxd4 Nxd4 10']
+[Opening "Queen's Pawn Game #3"]
+
+['1. e3 Nf6 2. d4 d5 3. g3 Bg4 4. Be2 Bf5 5. Bf3 e6 6. b3 Bb4+ 7. Bd2 Na6 8. Bc3 Ne4 9. Bxb4 Nxb4 10']
+[Opening "Gunderam Defense"]
+
+[]
+[Opening "Four Knights Game: Italian Variation"]
+
+['1. e4 e5 2. Nf3 Nc6 3. Nc3 Nf6 4. Bc4 Bc5 5. Ng5 Qe7 6. Nd5 Nxd5 7. exd5 Na5 8. d6 Qxg5 9. dxc7 Nxc4 10']
+[Opening "Petrov's Defense"]
+
+['1. e4 e5 2. Nf3 Nf6 3. Qe2 c5 4. c3 d6 5. d4 Nc6 6. dxe5 dxe5 7. Bg5 h6 8. Bxf6 Qxf6 9. Nbd2 b6 10']
+[Opening "Sicilian Defense: French Variation"]
+
+['1. e4 c5 2. Nf3 e6 3. Bb5 a6 4. Ba4 b5 5. Bxb5 axb5 6. d3 Nc6 7. Bg5 Be7 8. Be3 h6 9. a3 Qc7 10']
+[Opening "Sicilian Defense: Smith-Morra Gambit #2"]
+
+['1. e4 c5 2. d4 cxd4 3. Qxd4 Nc6 4. Qc3 e6 5. e5 Bb4 6. Qxb4 Nxb4 7. Bd2 Nxc2+ 8. Ke2 Nxa1 9. Na3 b6 10']
+[Opening "King's Knight Opening: Normal Variation"]
+
+['1. e4 e5 2. Nf3 Nc6 3. d3 Nf6 4. Ng5 Be7 5. Nxf7 Kxf7 6. Nc3 Rf8 7. Nd5 Kg8 8. Bd2 d6 9. Nb4 a5 10']
+[Opening "Benoni Defense: Benoni-Indian Defense, Kingside Move Order"]
+
+['1. d4 Nf6 2. Nf3 c5 3. d5 d6 4. c4 b5 5. e3 bxc4 6. Bxc4 g6 7. Bd2 Bg7 8. Bc3 O-O 9. Nbd2 Bg4 10']
+[Opening "Scandinavian Defense: Mieses-Kotroc Variation"]
+
+['1. e4 d5 2. exd5 Qxd5 3. Nc3 Qd8 4. Nf3 e6 5. Bc4 Nf6 6. O-O Nfd7 7. d3 Nc5 8. d4 Ncd7 9. Bf4 c5 10']
+[Opening "Nimzowitsch Defense: Franco-Nimzowitsch Variation"]
+
+['1. e4 e6 2. Nf3 Nc6 3. Bb5 Nge7 4. O-O a6 5. Ba4 b5 6. Bb3 Na5 7. d4 Nxb3 8. axb3 Bb7 9. Nc3 h6 10']
+[Opening "Danish Gambit"]
+
+['1. e4 e5 2. d4 exd4 3. c3 dxc3 4. Nxc3 Bb4 5. Bd2 Qf6 6. Qb3 Bxc3 7. Qxc3 Qxc3 8. Bxc3 Nf6 9. e5 Nd5 10']
+[Opening "English Defense #2"]
+
+['1. d4 b6 2. c4 Bb7 3. e3 e6 4. Nf3 g5 5. Nc3 g4 6. Ne5 f6 7. Nxg4 h5 8. d5 exd5 9. cxd5 hxg4 10']
+[Opening "Rat Defense: Small Center Defense"]
+
+['1. e4 e6 2. d4 d6 3. d5 e5 4. f4 Nd7 5. Nh3 h6 6. f5 Ngf6 7. Bd3 Nc5 8. O-O Nfxe4 9. Bxe4 Nxe4 10']
+[Opening "Anderssen Opening"]
+
+['1. a3 e5 2. d4 exd4 3. Qxd4 Nc6 4. Qd2 Nf6 5. b3 Qe7 6. Bb2 Ne4 7. Qd3 f5 8. f3 Nc5 9. Qd2 Rg8 10']
+[Opening "Sicilian Defense: Lasker-Dunne Attack"]
+
+['1. e4 c5 2. g3 Nc6 3. Bg2 e6 4. Ne2 Nf6 5. O-O d6 6. c3 Be7 7. d4 O-O 8. d5 exd5 9. exd5 Ne5 10']
+[Opening "Petrov's Defense"]
+
+['1. e4 e5 2. Nf3 Nf6 3. Qe2 d6 4. d4 exd4 5. Nxd4 d5 6. e5 Ne4 7. c4 Bf5 8. f3 Nc5 9. Nxf5 g6 10']
+[Opening "Borg Defense"]
+
+['1. e4 g5 2. Nf3 Bg7 3. d4 h6 4. c3 e6 5. Bd3 Ne7 6. Qe2 Nbc6 7. Be3 d5 8. Nbd2 dxe4 9. Nxe4 e5 10']
+[Opening "Pirc Defense #4"]
+
+['1. e4 d6 2. Nf3 g6 3. c3 Nf6 4. Qc2 Bg7 5. Bc4 O-O 6. O-O Bg4 7. Be2 Nc6 8. d4 Bxf3 9. Bxf3 e5 10']
+[Opening "Englund Gambit"]
+
+['1. d4 e5 2. c3 exd4 3. Qxd4 Nc6 4. Qe4+ Be7 5. Qg4 d5 6. Qxg7 Bf6 7. Bg5 Bxg5 8. Qxh8 Kf8 9. Qxh7 d4 10']
+[Opening "Zukertort Opening: Tennison Gambit"]
+
+['1. e4 d5 2. Nf3 dxe4 3. Ng5 f5 4. Nc3 Nf6 5. Bc4 e6 6. Bxe6 Bxe6 7. Nxe6 Qe7 8. Nxf8 Rxf8 9. d3 Nc6 10']
+[Opening "French Defense: Knight Variation"]
+
+['1. e4 e6 2. Nf3 b6 3. Bc4 Bb7 4. d3 Nf6 5. Nc3 Bb4 6. O-O Bxc3 7. bxc3 d5 8. exd5 Bxd5 9. Bxd5 Nxd5 10']
+[Opening "Van't Kruijs Opening"]
+
+['1. e3 e5 2. c3 d5 3. Qa4+ Bd7 4. Qb3 Nf6 5. Qxb7 Nc6 6. Qa6 Bc8 7. Qxc6+ Bd7 8. Qb7 Qb8 9. Qa6 Bb5 10']
+[Opening "Ponziani Opening"]
+
+['1. e4 e5 2. Nf3 Nc6 3. c3 Bc5 4. Qc2 Nf6 5. h3 O-O 6. b4 Bb6 7. Bc4 d5 8. exd5 Nxd5 9. Qb3 Be6 10']
+[Opening "Reti Opening"]
+
+['1. Nf3 d5 2. c3 Nf6 3. d4 Bg4 4. h3 Bxf3 5. exf3 Nc6 6. Bb5 Qd7 7. O-O a6 8. Bxc6 Qxc6 9. b3 e6 10']
+[Opening "Russian Game: Urusov Gambit"]
+
+['1. e4 e5 2. Nf3 Nf6 3. Bc4 Nxe4 4. O-O c6 5. d4 d5 6. Bd3 Nd7 7. Nxe5 Nxe5 8. dxe5 Nc5 9. Nc3 f6 10']
+[Opening "Bishop's Opening"]
+
+['1. e4 e5 2. Bc4 Nc6 3. a3 d6 4. h3 Nf6 5. d3 h6 6. Nc3 Be7 7. Nf3 Bd7 8. Nd5 a6 9. Be3 Nxd5 10']
+[Opening "Modern Defense"]
+
+['1. d4 g6 2. Nf3 Bg7 3. c4 d6 4. Nc3 b6 5. e4 Bb7 6. a3 Na6 7. Be2 c5 8. d5 e6 9. b3 exd5 10']
+[Opening "Queen's Pawn Game: Chigorin Variation"]
+
+['1. d4 d5 2. Nf3 Nc6 3. Nc3 Nf6 4. e3 g6 5. Be2 Bg7 6. O-O O-O 7. Re1 Re8 8. Bd3 e5 9. dxe5 Nxe5 10']
+[Opening "Sicilian Defense: Dragon Variation, Yugoslav Attack, Early Deviations"]
+
+['1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6 6. Be3 Bg7 7. f3 Nbd7 8. Bc4 a6 9. Qd2 b5 10']
+[Opening "Philidor Defense #3"]
+
+['1. e4 e5 2. Nf3 d6 3. Bc4 h6 4. h3 Nc6 5. Nc3 Nf6 6. d3 g6 7. Nh4 Bg7 8. Nd5 Nxd5 9. Bxd5 Nd4 10']
+[Opening "Queen's Pawn Game: Levitsky Attack"]
+
+['1. d4 d5 2. Bg5 h6 3. Bh4 c5 4. dxc5 Qa5+ 5. Nc3 Qxc5 6. Qxd5 Qc6 7. O-O-O Bd7 8. Nf3 g5 9. Bg3 Nf6 10']
+[Opening "Sicilian Defense: Lasker-Dunne Attack"]
+
+['1. e4 c5 2. g3 Nc6 3. Bg2 e6 4. Ne2 Nf6 5. O-O Be7 6. c3 O-O 7. d4 cxd4 8. Nxd4 d5 9. Nxc6 bxc6 10']
+[Opening "Petrov's Defense"]
+
+['1. e4 e5 2. Nf3 Nf6 3. d3 d6 4. Na3 Nc6 5. c4 Be6 6. Nc2 Be7 7. h3 Qd7 8. a3 Na5 9. Bd2 Nb3 10']
+[Opening "Sicilian Defense: Kan Variation, Knight Variation"]
+
+['1. e4 c5 2. Nc3 e6 3. Nf3 a6 4. d4 cxd4 5. Nxd4 h6 6. Be3 Qc7 7. Bd3 Nc6 8. Nxc6 bxc6 9. O-O Nf6 10']
+[Opening "French Defense: Knight Variation"]
+
+['1. e4 e6 2. Nf3 g6 3. Nc3 d6 4. d4 Nc6 5. Bc4 Na5 6. Bd2 Nxc4 7. Bg5 Be7 8. b3 Nb6 9. Qd2 Bxg5 10']
+[Opening "Nimzowitsch Defense, Declined Variation"]
+
+['1. e4 Nc6 2. Nf3 Nf6 3. Bc4 Nxe4 4. d3 Nd6 5. O-O Nxc4 6. dxc4 e5 7. Re1 f6 8. Nc3 Nb4 9. a3 Na6 10']
+[Opening "Rat Defense: Small Center Defense"]
+
+['1. e4 d6 2. d4 e6 3. Nf3 c6 4. Nc3 Nd7 5. Bd3 Be7 6. Be3 Ngf6 7. h3 e5 8. dxe5 Nxe5 9. Nxe5 dxe5 10']
+[Opening "Englund Gambit Complex: Hartlaub-Charlick Gambit"]
+
+[]
+[Opening "Caro-Kann Defense"]
+
+['1. e4 c6 2. d4 Qa5+ 3. c3 e6 4. Bd2 Qb6 5. Bc1 d5 6. f3 g6 7. b3 f5 8. e5 Nd7 9. Bf4 Bg7 10']
+[Opening "Italian Game: Giuoco Pianissimo"]
+
+['1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. d3 Nge7 5. O-O O-O 6. Bg5 d6 7. Nc3 Na5 8. Nd5 Nxc4 9. Nxe7+ Kh8 10']
+[Opening "Sicilian Defense: Old Sicilian"]
+
+['1. e4 c5 2. Nf3 Nc6 3. Bc4 e6 4. c3 Nf6 5. d4 cxd4 6. Nxd4 Be7 7. Nxc6 bxc6 8. e5 Ng4 9. h3 Nxe5 10']
+[Opening "French Defense: Knight Variation"]
+
+['1. e4 e6 2. Nf3 b6 3. Bc4 Bb7 4. d3 h6 5. Nc3 Nf6 6. Be3 d5 7. exd5 Nxd5 8. Nxd5 Bxd5 9. Bxd5 Qxd5 10']
+[Opening "Four Knights Game: Scotch Variation Accepted"]
+
+['1. e4 e5 2. Nf3 Nc6 3. Nc3 Nf6 4. d4 exd4 5. Nxd4 Nxd4 6. Qxd4 Qe7 7. Bg5 h6 8. Bxf6 Qxf6 9. Qxf6 gxf6 10']
+[Opening "Anderssen Opening"]
+
+['1. a3 e5 2. d4 Nc6 3. dxe5 d6 4. exd6 cxd6 5. b3 Nf6 6. Bb2 Ne4 7. Nd2 d5 8. Nxe4 b6 9. Nc3 Bc5 10']
+[Opening "Bishop's Opening"]
+
+['1. e4 e5 2. Bc4 Nh6 3. Qe2 Qg5 4. Nf3 Qxg2 5. Rg1 Qh3 6. d3 Ng4 7. Rg3 Qh5 8. Ng5 Nf6 9. Bxf7+ Qxf7 10']
+[Opening "Queen's Gambit Declined: Modern Variation"]
+
+['1. d4 e6 2. c4 Nf6 3. Nc3 d5 4. Bg5 Bd6 5. e3 c6 6. Nf3 O-O 7. Ne5 Nbd7 8. Nxd7 Bxd7 9. Be2 dxc4 10']
+[Opening "Scandinavian Defense: Mieses-Kotroc Variation"]
+
+['1. e4 d5 2. exd5 Qxd5 3. Nc3 Qe5+ 4. Be2 Qg5 5. g4 Bxg4 6. d4 Bxe2 7. Ncxe2 Qg2 8. Ng3 e6 9. Bf4 Bb4+ 10']
+[Opening "Horwitz Defense"]
+
+['1. d4 e6 2. Nf3 d5 3. e3 Bd6 4. c4 c6 5. Nc3 Bb4 6. cxd5 Bxc3+ 7. bxc3 exd5 8. Bd3 Nf6 9. O-O Bg4 10']
+[Opening "Indian Game"]
+
+['1. d4 Nf6 2. Bf4 g6 3. e3 Bg7 4. Bd3 d5 5. Nc3 c6 6. Qf3 Bg4 7. Qg3 Qc8 8. h3 Bd7 9. Nge2 Nh5 10']
+[Opening "Scandinavian Defense: Main Line"]
+
+['1. e4 d5 2. exd5 Qxd5 3. Nc3 Qa5 4. a3 c6 5. Bc4 e6 6. Ba2 Nf6 7. d3 Bd6 8. Bd2 Qc7 9. h3 O-O 10']
+[Opening "Italian Game"]
+
+['1. e4 e5 2. Nf3 Nc6 3. Bc4 d6 4. d3 h6 5. a3 a6 6. Nc3 b5 7. Ba2 Bb7 8. O-O Be7 9. Nd5 Bg5 10']
+[Opening "Queen's Gambit Declined"]
+
+['1. d4 d5 2. c4 e6 3. Bf4 dxc4 4. Nc3 Bb4 5. e3 Nf6 6. a3 a5 7. axb4 O-O 8. bxa5 Ng4 9. Bxc4 Qd7 10']
+[Opening "Sicilian Defense: Lasker-Dunne Attack"]
+
+['1. e4 c5 2. g3 Nc6 3. Bg2 e5 4. Ne2 Nf6 5. O-O d6 6. c3 Be6 7. d4 cxd4 8. cxd4 exd4 9. Nxd4 Nxd4 10']
+[Opening "Caro-Kann Defense"]
+
+['1. e4 c6 2. d4 d5 3. Nc3 e6 4. Nf3 dxe4 5. Nxe4 Nd7 6. Bd3 Ngf6 7. O-O Nxe4 8. Bxe4 Be7 9. Bf4 O-O 10']
+[Opening "Ruy Lopez: Bird Variation"]
+
+['1. e4 e5 2. Nf3 Nc6 3. Bb5 Nd4 4. Nc3 Nxf3+ 5. Qxf3 Qf6 6. Qxf6 Nxf6 7. d3 c6 8. Bc4 a5 9. a3 b5 10']
+[Opening "Queen's Gambit Declined"]
+
+['1. d4 e6 2. c4 d5 3. cxd5 Ne7 4. Nc3 exd5 5. e3 Nbc6 6. Bd3 b6 7. Nf3 a6 8. O-O Bg4 9. h3 Bxf3 10']
+[Opening "Pirc Defense: Roscher Gambit"]
+
+['1. d4 Nf6 2. Nf3 d6 3. e4 Bg4 4. Nbd2 Nc6 5. Bb5 a6 6. Bxc6+ bxc6 7. O-O Rb8 8. b3 c5 9. dxc5 Rb4 10']
+[Opening "Scotch Game: Schmidt Variation"]
+
+['1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Nxd4 Nf6 5. Bc4 d6 6. Nc3 Be6 7. Bb5 Qd7 8. O-O a6 9. Bxc6 bxc6 10']
+[Opening "French Defense: Advance Variation, Nimzowitsch System"]
+
+['1. d4 e6 2. e4 d5 3. e5 c5 4. Nf3 Nc6 5. Bb5 cxd4 6. Nxd4 Bd7 7. Bxc6 Bxc6 8. Nxc6 bxc6 9. Nc3 Bb4 10']
+[Opening "Ruy Lopez: Exchange Variation, Lutikov Variation"]
+
+['1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Bxc6 bxc6 5. Nxe5 Qe7 6. Nf3 Qxe4+ 7. Qe2 Nf6 8. Qxe4+ Nxe4 9. O-O d5 10']
+[Opening "Sicilian Defense: Bowdler Attack"]
+
+['1. e4 c5 2. Bc4 a6 3. Qf3 e6 4. a3 Nc6 5. Qd1 Nf6 6. d3 d6 7. h3 Be7 8. Nf3 O-O 9. Ba2 Qc7 10']
+[Opening "Scandinavian Defense: Blackburne Gambit"]
+
+['1. e4 d5 2. exd5 c6 3. dxc6 Nxc6 4. Bb5 Bd7 5. Qf3 Qc7 6. Bxc6 Bxc6 7. Qc3 O-O-O 8. Nf3 h6 9. O-O f6 10']
+[Opening "Sicilian Defense: Pin Variation, Koch Variation"]
+
+['1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 Bb4 6. e5 Nd5 7. a3 Bxc3+ 8. bxc3 Nxc3 9. Qg4 g6 10']
+[Opening "Reti Opening: Anglo-Slav Variation, Bogoljubov Variation, III"]
+
+['1. c4 c6 2. Nf3 d5 3. b3 Nf6 4. d3 Bg4 5. g3 Nbd7 6. Bg2 dxc4 7. dxc4 e6 8. O-O Bc5 9. e3 O-O 10']
+[Opening "King's Pawn Game: Busch-Gass Gambit"]
+
+['1. e4 e5 2. Nf3 Bc5 3. Nxe5 Qf6 4. d4 Bb4+ 5. c3 Bd6 6. Nf3 Be7 7. e5 Qg6 8. Bf4 h6 9. Bg3 d6 10']
+[Opening "Sicilian Defense: Lasker-Dunne Attack"]
+
+['1. e4 c5 2. g3 Nc6 3. Bg2 e6 4. Ne2 Nf6 5. O-O d6 6. c3 Be7 7. d4 cxd4 8. Nxd4 Nxd4 9. cxd4 O-O 10']
+[Opening "Benoni Defense: King's Pawn Line"]
+
+['1. d4 c5 2. d5 d6 3. c4 e6 4. Nc3 exd5 5. cxd5 Nf6 6. e4 a6 7. Bg5 g6 8. Bd3 Bg7 9. Nge2 O-O 10']
+[Opening "French Defense: La Bourdonnais Variation"]
+
+['1. e4 e6 2. f4 b6 3. Nf3 Bb7 4. d3 h6 5. Nc3 g6 6. Be3 Bg7 7. Qd2 Nf6 8. O-O-O Ng4 9. h4 Nxe3 10']
+[Opening "Queen's Gambit Accepted"]
+
+['1. d4 d5 2. c4 dxc4 3. Bf4 e6 4. e3 b5 5. a3 Bd6 6. Bxd6 cxd6 7. b3 cxb3 8. Qxb3 a6 9. Nf3 Qa5+ 10']
+[Opening "Slav Defense: Exchange Variation"]
+
+['1. d4 d5 2. c4 c6 3. cxd5 Qxd5 4. Nc3 Qd8 5. h3 e6 6. a3 Be7 7. e4 Nf6 8. e5 O-O 9. exf6 Bxf6 10']
+[Opening "French Defense: Knight Variation"]
+
+['1. e4 e6 2. Nf3 Nf6 3. Bc4 Nxe4 4. d4 d5 5. Bb5+ c6 6. Bd3 Nd6 7. Bg5 Be7 8. Qd2 Bxg5 9. Nxg5 g6 10']
+[Opening "Nimzowitsch Defense: Kennedy Variation, Linksspringer Variation"]
+
+[]
+[Opening "Bishop's Opening: Berlin Defense"]
+
+['1. e4 e5 2. Bc4 Nf6 3. Qf3 Nc6 4. Ne2 Qe7 5. a3 a6 6. Nbc3 Nd4 7. Nxd4 exd4 8. Nd5 Nxd5 9. Bxd5 c6 10']
+[Opening "Sicilian Defense: McDonnell Attack"]
+
+['1. e4 c5 2. f4 d6 3. Nf3 Nc6 4. Be2 e6 5. Kf2 Be7 6. d3 Nf6 7. Be3 O-O 8. c3 b6 9. Nbd2 Bb7 10']
+[Opening "Sicilian Defense: French Variation, Normal"]
+
+['1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 h6 7. Bh4 g5 8. Bg3 Bg7 9. e5 Nh5 10']
+[Opening "Sicilian Defense: Pin Variation"]
+
+['1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 Bb4 6. Nb5 a6 7. Nd6+ Bxd6 8. Qxd6 Qe7 9. Bf4 Nc6 10']
+[Opening "English Opening: King's English Variation, Nimzowitsch Variation"]
+
+['1. c4 e5 2. Nf3 Qe7 3. g3 d6 4. Bg2 Bg4 5. O-O Bxf3 6. Bxf3 c6 7. e3 Qe6 8. b3 Na6 9. Bb2 Nb4 10']
+[Opening "Philidor Defense: Lopez Countergambit"]
+
+['1. e4 e5 2. Nf3 d6 3. Bc4 f5 4. d3 h6 5. Nc3 Nf6 6. exf5 Bxf5 7. Qe2 Bg4 8. h3 Bh5 9. Ne4 Nc6 10']
+[Opening "Hungarian Opening"]
+
+['1. g3 e5 2. Bg2 Bb4 3. e3 f6 4. c3 Ba5 5. Ne2 Nc6 6. O-O d6 7. Bxc6+ bxc6 8. b4 Bb6 9. a4 a5 10']
+[Opening "Nimzowitsch Defense"]
+
+['1. e4 Nc6 2. Bc4 e5 3. a3 d6 4. Nf3 f5 5. d3 fxe4 6. dxe4 Nf6 7. Bg5 h6 8. Bxf6 Qxf6 9. Nc3 Be6 10']
+[Opening "King's Pawn Game: Damiano Defense"]
+
+['1. e4 e5 2. Nf3 f6 3. Bc4 g5 4. h3 Ne7 5. d4 exd4 6. Nxd4 d5 7. exd5 Nxd5 8. Qh5+ Kd7 9. Bxd5 Bb4+ 10']
+[Opening "Ruy Lopez: Exchange Variation"]
+
+['1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Bxc6 dxc6 5. Nxe5 Qd4 6. Nf3 Qxe4+ 7. Qe2 Qxe2+ 8. Kxe2 Bg4 9. Re1 O-O-O 10']
+[Opening "Scotch Game"]
+
+['1. e4 e5 2. Nf3 Nc6 3. d4 d6 4. d5 Nb8 5. c4 Be7 6. Bd3 Nf6 7. O-O O-O 8. Bg5 Nxd5 9. cxd5 Bxg5 10']
+[Opening "Englund Gambit"]
+
+['1. d4 e5 2. c3 exd4 3. cxd4 Nf6 4. Nd2 Bb4 5. e3 O-O 6. a3 Ba5 7. g4 Ne4 8. Bd3 Nxf2 9. Kxf2 Qf6+ 10']
+[Opening "Owen Defense"]
+
+['1. e4 b6 2. Nf3 Bb7 3. Nc3 e6 4. d4 g6 5. Be3 Bg7 6. e5 Ne7 7. Be2 O-O 8. O-O c6 9. a4 d6 10']
+[Opening "French Defense: La Bourdonnais Variation"]
+
+['1. e4 e6 2. f4 b6 3. Nf3 Bb7 4. d3 Nc6 5. Be3 g6 6. Be2 Bg7 7. O-O Nf6 8. Nbd2 Ng4 9. Bf2 Nxf2 10']
+[Opening "Center Game: Normal Variation"]
+
+['1. e4 e5 2. d4 exd4 3. Qxd4 Nc6 4. Qa4 Nf6 5. Bg5 Be7 6. Nc3 O-O 7. O-O-O d6 8. Bc4 Ne5 9. f4 Bd7 10']
+[Opening "English Opening: The Whale"]
+
+['1. e4 e5 2. c4 Bc5 3. Nf3 Qf6 4. Nc3 Nc6 5. d3 h6 6. a3 Nd4 7. Be3 Nxf3+ 8. Qxf3 Bxe3 9. Qxe3 a6 10']
+[Opening "Sicilian Defense: Open #3"]
+
+[]
+[Opening "Pirc Defense #5"]
+
+['1. e4 d6 2. d4 g6 3. Nf3 Nf6 4. e5 dxe5 5. Nxe5 Bg7 6. Nc3 O-O 7. Bc4 e6 8. Bg5 Nbd7 9. Nxd7 Qxd7 10']
+[Opening "Philidor Defense #2"]
+
+['1. e4 e5 2. Nf3 d6 3. Nc3 f6 4. d4 a6 5. dxe5 fxe5 6. Bg5 Qd7 7. Qe2 h6 8. Be3 c5 9. O-O-O Nf6 10']
+[Opening "Nimzowitsch Defense: Scandinavian Variation, Advance Variation"]
+
+['1. e4 Nc6 2. d4 d5 3. e5 e6 4. c4 a6 5. c5 h6 6. Qa4 Bd7 7. Nc3 Nxe5 8. Qc2 Nc6 9. Nf3 Qe7 10']
+[Opening "Three Knights Opening"]
+
+['1. e4 e5 2. Nf3 Nc6 3. Nc3 d6 4. d4 Qf6 5. d5 Nb8 6. Bb5+ Bd7 7. O-O c6 8. dxc6 Nxc6 9. Nd5 Qd8 10']
+[Opening "Sicilian Defense: Smith-Morra Gambit Accepted, Fianchetto Defense"]
+
+['1. e4 c5 2. d4 cxd4 3. c3 dxc3 4. Nxc3 Nc6 5. Nf3 g6 6. Bc4 Bg7 7. O-O d6 8. Qe2 Nh6 9. Bf4 O-O 10']
+[Opening "Philidor Defense #3"]
+
+[]
+[Opening "Queen's Pawn Game: Mason Attack"]
+
+['1. d4 d5 2. Bf4 e6 3. e3 Bd6 4. Bg3 Nf6 5. Nf3 Ne4 6. Bd3 Nxg3 7. hxg3 h6 8. Ne5 Bxe5 9. dxe5 c5 10']
+[Opening "Sicilian Defense: Lasker-Dunne Attack"]
+
+['1. e4 c5 2. g3 Nc6 3. Bg2 e5 4. Ne2 Nf6 5. O-O d6 6. c3 Be7 7. d4 O-O 8. Na3 cxd4 9. cxd4 exd4 10']
+[Opening "Three Knights Opening"]
+
+['1. e4 e5 2. Nc3 Nc6 3. Nf3 d6 4. Bc4 Nf6 5. Ng5 Be6 6. Nxf7 Bxf7 7. Bxf7+ Kxf7 8. Nd5 Be7 9. Qf3 Rf8 10']
+[Opening "Ruy Lopez: Cozio Defense"]
+
+['1. e4 e5 2. Nf3 Nc6 3. Bb5 Nge7 4. d3 g6 5. Bg5 a6 6. Ba4 b5 7. Bb3 Bg7 8. Nc3 O-O 9. Nd5 Bb7 10']
+[Opening "Italian Game: Two Knights Defense, Modern Bishop's Opening"]
+
+['1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. d3 Bb4+ 5. c3 Be7 6. h3 O-O 7. Nh4 Nxe4 8. dxe4 Bxh4 9. O-O d6 10']
+[Opening "Bishop's Opening"]
+
+['1. e4 e5 2. Bc4 Nc6 3. a3 d6 4. h3 Nf6 5. d3 Be6 6. Bb5 Qd7 7. Bg5 Be7 8. Nf3 a6 9. Bxc6 Qxc6 10']
+[Opening "Nimzowitsch Defense: Kennedy Variation, Linksspringer Variation"]
+
+['1. e4 e5 2. d4 Nc6 3. d5 Nce7 4. f4 c6 5. Nc3 cxd5 6. exd5 d6 7. Nf3 Nf6 8. Bc4 Bg4 9. fxe5 dxe5 10']
+[Opening "Queen's Pawn Game: Levitsky Attack"]
+
+['1. d4 d5 2. Bg5 h6 3. Bh4 b6 4. Nd2 Bb7 5. Nb3 Qd7 6. g3 f6 7. Bh3 Qd6 8. g4 g5 9. Bg3 e5 10']
+[Opening "English Opening: King's English Variation, Nimzowitsch Variation"]
+
+['1. c4 e5 2. Nf3 Qe7 3. g3 Nc6 4. Bg2 d6 5. O-O Bg4 6. b3 Bxf3 7. Bxf3 Nb4 8. a3 Na6 9. b4 c6 10']
+[Opening "Sicilian Defense: Open #3"]
+
+['1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nxd4 5. Qxd4 d6 6. Nc3 e5 7. Qd1 Be7 8. Be3 Nf6 9. Bc4 O-O 10']
+[Opening "French Defense: Normal Variation"]
+
+['1. d4 e6 2. e4 Bb4+ 3. c3 Ba5 4. b4 Bb6 5. c4 a6 6. c5 Ba7 7. Nf3 d6 8. Bc4 dxc5 9. bxc5 Ne7 10']
+[Opening "Zukertort Opening: Pirc Invitation"]
+
+['1. Nf3 d6 2. d3 e5 3. e3 Nf6 4. Nc3 g6 5. Be2 Bg7 6. O-O O-O 7. h3 Nc6 8. b3 Bd7 9. Bb2 Be6 10']
+[Opening "Old Benoni Defense"]
+
+['1. d4 c5 2. e3 cxd4 3. exd4 Nf6 4. c3 d5 5. Bd3 Bg4 6. Qc2 e6 7. h3 Bh5 8. Nd2 Nc6 9. Ngf3 Rc8 10']
+[Opening "Ruy Lopez: Steinitz Defense"]
+
+['1. e4 e5 2. Nf3 Nc6 3. Bb5 d6 4. Bxc6+ bxc6 5. d4 Nf6 6. O-O Nxe4 7. dxe5 Rb8 8. Re1 d5 9. Nbd2 Bf5 10']
+[Opening "Gruenfeld Defense: Exchange Variation"]
+
+['1. c4 Nf6 2. d4 g6 3. Nc3 d5 4. cxd5 Nxd5 5. Nxd5 Qxd5 6. Nf3 Bg7 7. b3 Nc6 8. Bb2 Bg4 9. e3 e5 10']
+[Opening "Sicilian Defense: Snyder Variation"]
+
+['1. e4 c5 2. b3 Nf6 3. Bb2 e6 4. Nc3 Nc6 5. Bb5 a6 6. Bxc6 dxc6 7. d3 Be7 8. Qd2 O-O 9. f4 b5 10']
+[Opening "Queen's Pawn Game: Chigorin Variation"]
+
+['1. d4 d5 2. Nc3 c6 3. Nf3 Nf6 4. Bg5 Bf5 5. Bxf6 h6 6. Be5 Nd7 7. Bg3 Qb6 8. Rb1 Nf6 9. e3 e6 10']
+[Opening "Queen's Gambit Refused: Marshall Defense"]
+
+['1. d4 d5 2. c4 Nf6 3. Nc3 Bf5 4. Bg5 dxc4 5. e3 e6 6. Bxc4 Bb4 7. Bxf6 Bxc3+ 8. bxc3 Qxf6 9. Qa4+ c6 10']
+[Opening "Alekhine Defense: Maroczy Variation"]
+
+[]
+[Opening "English Opening: Anglo-Indian Defense, Hedgehog System"]
+
+['1. c4 Nf6 2. Nc3 e6 3. g3 c5 4. Bg2 Nc6 5. Nf3 d6 6. d4 cxd4 7. Nxd4 Bd7 8. O-O Be7 9. Bg5 e5 10']
+[Opening "Queen's Gambit Refused: Marshall Defense"]
+
+['1. d4 d5 2. c4 Nf6 3. Nc3 dxc4 4. Bg5 e6 5. e4 Be7 6. e5 Nd5 7. Bxe7 Qxe7 8. Bxc4 Nxc3 9. bxc3 O-O 10']
+[Opening "French Defense #2"]
+
+['1. e4 e6 2. Bc4 Nc6 3. Qf3 Nf6 4. Ne2 d5 5. exd5 exd5 6. Bb5 Bd7 7. Bxc6 Bxc6 8. Qe3+ Be7 9. O-O Qd6 10']
+[Opening "French Defense: Two Knights Variation"]
+
+['1. e4 e6 2. Nf3 d5 3. Nc3 dxe4 4. Nxe4 Nf6 5. Nxf6+ gxf6 6. Bb5+ Bd7 7. Bc4 Nc6 8. O-O Bd6 9. Re1 Rg8 10']
+[Opening "Owen Defense"]
+
+['1. e4 b6 2. d4 Bb7 3. Bd3 e6 4. Nf3 Nf6 5. Qe2 c5 6. c3 cxd4 7. cxd4 Nc6 8. Nc3 Nb4 9. Bb1 Be7 10']
+[Opening "Zukertort Opening: Tennison Gambit"]
+
+['1. e4 d5 2. Nf3 dxe4 3. Ng1 e5 4. d3 exd3 5. Bxd3 e4 6. Be2 Qd7 7. Bd2 Qd8 8. Nc3 Qd7 9. Be3 Qd8 10']
+[Opening "Ruy Lopez: Steinitz Defense"]
+
+['1. e4 e5 2. Nf3 Nc6 3. Bb5 d6 4. d3 Bg4 5. Bg5 Be7 6. Be3 Nf6 7. Bg5 O-O 8. O-O a6 9. Ba4 Nd4 10']
+[Opening "Ponziani Opening"]
+
+['1. e4 e5 2. Nf3 Nc6 3. c3 d6 4. h3 g6 5. g4 Bg7 6. Bg2 Nf6 7. Qc2 O-O 8. O-O a5 9. b3 b5 10']
+[Opening "English Opening: Jaenisch Gambit"]
+
+['1. c4 b5 2. c5 Bb7 3. d4 Nc6 4. e3 e6 5. Bxb5 Nb4 6. Bd2 Nd5 7. e4 Ndf6 8. e5 Ne4 9. Bb4 c6 10']
+[Opening "Ruy Lopez: Berlin Defense, Rio Gambit Accepted"]
+
+['1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. O-O Nxe4 5. Re1 Nd6 6. Bxc6 dxc6 7. Nxe5 Be7 8. d4 O-O 9. c3 Nf5 10']
+[Opening "Queen's Gambit Accepted: Slav Gambit"]
+
+['1. d4 d5 2. c4 dxc4 3. Nf3 b5 4. e3 Qd6 5. a4 b4 6. Bxc4 Be6 7. d5 Bd7 8. e4 Nf6 9. Nbd2 Qc5 10']
+[Opening "Nimzo-Larsen Attack: Modern Variation #2"]
+
+[]
+[Opening "Queen's Pawn Game #3"]
+
+['1. d4 d5 2. e3 Nf6 3. h3 g5 4. c4 c6 5. Nc3 Ne4 6. Nxe4 dxe4 7. Qc2 f5 8. Bd2 Bg7 9. f3 b6 10']
+[Opening "Ruy Lopez: Morphy Defense, Tarrasch Variation"]
+
+['1. e4 e5 2. Nf3 Nc6 3. Nc3 Nf6 4. Bb5 a6 5. Ba4 d5 6. exd5 Ng4 7. h3 Nf6 8. Nxe5 b5 9. Nxc6 Qd6 10']
+[Opening "Bishop's Opening"]
+
+['1. e4 e5 2. Bc4 d6 3. h3 h6 4. Qf3 Nf6 5. d3 Qe7 6. a3 g6 7. Qd1 Bg7 8. Nc3 Nc6 9. Nd5 Nxd5 10']
+[Opening "Semi-Slav Defense: Noteboom Variation"]
+
+['1. d4 d5 2. c4 e6 3. Nc3 c6 4. Nf3 dxc4 5. a4 Bb4 6. Qc2 Bxc3+ 7. bxc3 b5 8. e4 Bb7 9. Ba3 a6 10']
+[Opening "English Opening"]
+
+[]
+[Opening "Sicilian Defense: O'Kelly Variation, Normal System, Taimanov Line"]
+
+['1. e4 c5 2. Nf3 a6 3. d4 cxd4 4. Nxd4 e5 5. Nf3 Nf6 6. Nxe5 Qa5+ 7. Nc3 Qxe5 8. Bd3 Bd6 9. f4 Qa5 10']
+[Opening "Semi-Slav Defense: Noteboom Variation"]
+
+['1. Nf3 c6 2. d4 d5 3. c4 e6 4. Nc3 dxc4 5. e4 b5 6. a4 Bb4 7. axb5 cxb5 8. Bd2 Bxc3 9. Bxc3 a5 10']
+[Opening "Pirc Defense: Classical Variation, Quiet System, Czech Defense"]
+
+['1. e4 d6 2. d4 g6 3. Nf3 Bg7 4. Be2 Nf6 5. Nc3 O-O 6. O-O c6 7. Re1 Nbd7 8. Bf1 b6 9. g3 Bb7 10']
+[Opening "Mikenas Defense"]
+
+['1. d4 Nc6 2. Nf3 e6 3. c4 Nf6 4. Nbd2 g6 5. a3 Bg7 6. b4 O-O 7. Bb2 d5 8. e3 b6 9. Bd3 Bb7 10']
+[Opening "Queen's Pawn Game: Chigorin Variation"]
+
+['1. d4 d5 2. Nc3 Nf6 3. Nf3 Bf5 4. Bg5 Nc6 5. Bxf6 gxf6 6. e3 Nb4 7. Bd3 Nxd3+ 8. cxd3 Bg4 9. O-O Rg8 10']
+[Opening "Nimzo-Larsen Attack: Modern Variation #3"]
+
+['1. b3 e5 2. Bb2 Nc6 3. a3 d6 4. b4 Be7 5. b5 Nb8 6. a4 Nd7 7. e3 Ngf6 8. g3 O-O 9. Bg2 Nb6 10']
+[Opening "Center Game: Normal Variation"]
+
+['1. e4 e5 2. d4 exd4 3. Qxd4 Nc6 4. Qd1 Nf6 5. Nc3 Bb4 6. Ne2 Nxe4 7. a3 Bxc3+ 8. Nxc3 Nxc3 9. bxc3 O-O 10']
+[Opening "Queen's Pawn Game"]
+
+['1. d4 d5 2. f4 Bf5 3. Nf3 h6 4. e3 e6 5. c4 Bb4+ 6. Nc3 Bxc3+ 7. bxc3 Nf6 8. cxd5 exd5 9. c4 O-O 10']
+[Opening "Slav Defense"]
+
+['1. d4 d5 2. c4 c6 3. e3 e6 4. a3 Nf6 5. h3 Nbd7 6. Nc3 dxc4 7. Bxc4 b5 8. Ba2 Nd5 9. Nf3 Qa5 10']
+[Opening "French Defense: Normal Variation"]
+
+['1. e4 e6 2. d4 Qf6 3. Nf3 Bb4+ 4. c3 Bd6 5. Bg5 Qg6 6. Bd3 f6 7. Be3 Qxg2 8. Rg1 Qh3 9. e5 Be7 10']
+[Opening "Ponziani Opening: Jaenisch Counterattack"]
+
+['1. e4 e5 2. Nf3 Nc6 3. c3 Nf6 4. d4 exd4 5. cxd4 Nxe4 6. Nc3 Nxc3 7. bxc3 Qe7+ 8. Be2 d5 9. Ng5 f6 10']
+[Opening "Bishop's Opening"]
+
+['1. e4 e5 2. Bc4 Nc6 3. a3 d6 4. h3 Be6 5. Bb5 Qd7 6. d3 a6 7. Bxc6 bxc6 8. Nf3 f6 9. Nc3 d5 10']
+[Opening "Ruy Lopez: Closed Variations"]
+
+['1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O b5 6. Bb3 Be7 7. Re1 d6 8. h3 O-O 9. c3 Na5 10']
+[Opening "Caro-Kann Defense"]
+
+['1. d4 c6 2. e4 Qa5+ 3. c3 b5 4. Be2 b4 5. Nh3 d6 6. Bd2 bxc3 7. Bxc3 Qc7 8. Qa4 Bxh3 9. Ba5 Qb7 10']
+[Opening "Philidor Defense: Lopez Countergambit"]
+
+['1. e4 e5 2. Nf3 d6 3. Bc4 f5 4. exf5 Bxf5 5. O-O Nf6 6. d4 e4 7. Nfd2 d5 8. Bb3 Bd6 9. c4 c6 10']
+[Opening "Nimzo-Larsen Attack"]
+
+['1. b3 e6 2. c3 e5 3. Bb2 c6 4. Qc2 b6 5. g3 Na6 6. Bg2 Bb7 7. a3 f6 8. b4 Bxb4 9. axb4 c5 10']
+[Opening "Queen's Pawn Game #2"]
+
+['1. d4 d5 2. e3 c6 3. c4 Bf5 4. Nc3 e6 5. Nf3 Nf6 6. Ne5 Nbd7 7. h3 Nxe5 8. dxe5 Nd7 9. f4 Qh4+ 10']
+[Opening "Sicilian Defense: Dragon Variation, Yugoslav Attack, Early Deviations"]
+
+['1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6 6. f3 Bg7 7. Be3 a6 8. Qd2 Nbd7 9. O-O-O b5 10']
+[Opening "Pirc Defense #5"]
+
+['1. e4 d6 2. d4 g6 3. Nf3 Nf6 4. Bd3 Bg7 5. O-O O-O 6. Bg5 c6 7. Nc3 b5 8. a4 b4 9. Na2 a5 10']
+[Opening "Bishop's Opening"]
+
+['1. e4 e5 2. Bc4 Qh4 3. Qf3 f6 4. Nc3 d6 5. Nd5 Bg4 6. Qg3 Qxg3 7. fxg3 Kd8 8. h3 Be6 9. g4 Bxd5 10']
+[Opening "Italian Game: Anti-Fried Liver Defense"]
+
+['1. e4 e5 2. Nf3 Nc6 3. Bc4 h6 4. d3 Nf6 5. h3 d5 6. exd5 Nxd5 7. Qe2 f6 8. Nc3 Nxc3 9. bxc3 Na5 10']
+[Opening "Four Knights Game: Italian Variation"]
+
+[]
+[Opening "English Opening: King's English Variation, Nimzowitsch-Flohr Variation"]
+
+['1. c4 e5 2. Nf3 e4 3. Nd4 Nf6 4. g3 Bc5 5. e3 O-O 6. Bg2 d5 7. b3 Bg4 8. f3 exf3 9. Nxf3 d4 10']
+[Opening "Bishop's Opening"]
+
+['1. e4 e5 2. Bc4 Qf6 3. Nh3 Bc5 4. d3 d6 5. Ng5 Be6 6. Bxe6 fxe6 7. Nf3 h6 8. c3 Nd7 9. b4 Bb6 10']
+[Opening "King's Pawn Game: Wayward Queen Attack"]
+
+['1. e4 e5 2. Qh5 Nc6 3. c3 Nf6 4. Qg5 h6 5. Qg3 Bc5 6. Be2 d5 7. d3 dxe4 8. dxe4 g5 9. b4 Nxe4 10']
+[Opening "Queen's Pawn Game #2"]
+
+['1. d4 d5 2. e3 Nc6 3. b3 e6 4. Bb2 Nf6 5. Nf3 Be7 6. Bb5 O-O 7. Bxc6 bxc6 8. O-O c5 9. Nbd2 cxd4 10']
+[Opening "Queen's Gambit"]
+
+['1. d4 d5 2. c4 Bg4 3. cxd5 Qxd5 4. Nc3 Qd8 5. h3 Bh5 6. Nf3 e6 7. Qb3 b6 8. Qb5+ Qd7 9. Qxh5 Nf6 10']
+[Opening "Sicilian Defense: Najdorf Variation, English Attack"]
+
+['1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be3 e5 7. Nf3 h6 8. Bc4 Be7 9. O-O Be6 10']
+[Opening "Sicilian Defense"]
+
+['1. e4 c5 2. e5 Nc6 3. Nf3 g6 4. d4 cxd4 5. Nxd4 Nxe5 6. Bf4 Bg7 7. Nc3 e6 8. Qe2 d6 9. O-O-O Qc7 10']
+[Opening "Philidor Defense #3"]
+
+['1. e4 e5 2. Nf3 d6 3. Bc4 c6 4. d4 f6 5. dxe5 fxe5 6. Ng5 d5 7. Qh5+ g6 8. Qf3 Qf6 9. Qxf6 Nxf6 10']
+[Opening "Indian Game"]
+
+['1. d4 Nf6 2. Nc3 b6 3. Nf3 Bb7 4. Bg5 h6 5. Bxf6 gxf6 6. e4 d6 7. Be2 Qd7 8. O-O Nc6 9. d5 Ne5 10']
+[Opening "English Opening: King's English Variation, Nimzowitsch Variation"]
+
+['1. c4 e5 2. Nf3 Nc6 3. g3 Nf6 4. Bg2 e4 5. Nh4 d5 6. b3 Be6 7. Bb2 Be7 8. d4 dxc4 9. bxc4 Bxc4 10']
+[Opening "Englund Gambit"]
+
+['1. d4 e5 2. dxe5 Nc6 3. Nf3 d6 4. Bg5 Be7 5. Bxe7 Qxe7 6. exd6 cxd6 7. e3 Nf6 8. Bd3 Ne5 9. O-O Nxd3 10']
+[Opening "Queen's Pawn Game #3"]
+
+['1. d4 Nf6 2. e3 d5 3. c4 e6 4. Nc3 g6 5. Nf3 c6 6. Bd2 Bg7 7. a3 O-O 8. b4 Nbd7 9. cxd5 exd5 10']
+[Opening "Bogo-Indian Defense: Nimzowitsch Variation"]
+
+['1. d4 Nf6 2. c4 e6 3. Nf3 Bb4+ 4. Bd2 Qe7 5. e3 Ne4 6. a3 Nxd2 7. Nbxd2 Bxd2+ 8. Qxd2 Nc6 9. Bd3 e5 10']
+[Opening "King's Pawn Game: Tayler Opening"]
+
+['1. e4 e5 2. Nf3 Nc6 3. Be2 Bc5 4. d3 Nf6 5. Be3 Bxe3 6. fxe3 O-O 7. O-O d5 8. Nc3 dxe4 9. Nxe4 Nxe4 10']
+[Opening "Sicilian Defense: Smith-Morra Gambit #2"]
+
+['1. e4 c5 2. d4 cxd4 3. Qxd4 Nc6 4. Qa4 d6 5. Nf3 Bd7 6. Bb5 a6 7. Bxc6 Bxc6 8. Qc4 Nf6 9. Nc3 g6 10']
+[Opening "English Opening: King's English Variation, Reversed Closed Sicilian"]
+
+['1. c4 e5 2. Nc3 Nc6 3. g4 Nf6 4. e3 d5 5. g5 Ng4 6. Nxd5 Qxg5 7. Nxc7+ Kd8 8. Nxa8 Nxf2 9. Qb3 Qh4 10']
+[Opening "Bird Opening: Schlechter Gambit"]
+
+['1. f4 e5 2. fxe5 Nc6 3. d4 Bb4+ 4. c3 Be7 5. Nf3 Bh4+ 6. Nxh4 Qxh4+ 7. g3 Qe4 8. Rg1 d5 9. Bg2 Qf5 10']
+[Opening "King's Pawn Game: Busch-Gass Gambit"]
+
+['1. e4 e5 2. Nf3 Bc5 3. Bc4 Qf6 4. O-O d6 5. d3 Qg6 6. Nc3 Bh3 7. Nh4 Qg4 8. Qxg4 Bxg4 9. h3 Be6 10']
+[Opening "Sicilian Defense: Paulsen Variation"]
+
+['1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nc6 5. Bb5 Qa5+ 6. c3 Nxd4 7. Bxd7+ Bxd7 8. Qxd4 Bc5 9. Qxg7 O-O-O 10']
+[Opening "French Defense: Knight Variation"]
+
+['1. e4 e6 2. Nf3 d5 3. e5 b6 4. d4 Bb7 5. Nc3 Nd7 6. Bb5 Bb4 7. a3 Bxc3+ 8. bxc3 Qe7 9. O-O f6 10']
+[Opening "Ruy Lopez: Berlin Defense, Beverwijk Variation"]
+
+['1. e4 e5 2. Nf3 Nc6 3. Bb5 Bc5 4. O-O Nf6 5. Nc3 Nd4 6. Nxe5 Nxb5 7. Nxb5 Bb6 8. d4 Nxe4 9. Qf3 Nf6 10']
+[Opening "Van't Kruijs Opening"]
+
+['1. e3 Nf6 2. b3 g6 3. Bb2 Bg7 4. g4 O-O 5. g5 Nd5 6. Bxg7 Kxg7 7. Bg2 Nb6 8. a4 a5 9. h4 Nc6 10']
+[Opening "Scotch Game"]
+
+['1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Nxd4 Nxd4 5. Qxd4 Qe7 6. Nc3 Nf6 7. f3 c6 8. Bg5 h6 9. Bh4 g5 10']
+[Opening "Old Benoni Defense"]
+
+['1. d4 c5 2. c3 cxd4 3. cxd4 d5 4. Nf3 Bg4 5. Ne5 Bf5 6. Nd2 f6 7. Nef3 Nc6 8. e3 a6 9. Be2 Nh6 10']
+[Opening "Ruy Lopez: Closed Variations"]
+
+['1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. c3 d6 7. Re1 O-O 8. d4 Bg4 9. h3 Bxf3 10']
+[Opening "King's Pawn Game: Napoleon Attack"]
+
+['1. e4 e5 2. Qf3 Bc5 3. Bc4 Qf6 4. Qxf6 Nxf6 5. f3 O-O 6. d3 d6 7. Nc3 Nbd7 8. Nd5 Nxd5 9. Bxd5 Nf6 10']
+[Opening "Scandinavian Defense"]
+
+['1. e4 d5 2. e5 c5 3. Nf3 Nc6 4. d4 cxd4 5. Nxd4 Nxe5 6. Bf4 Qd6 7. Bb5+ Kd8 8. Qe2 f6 9. Nc3 g5 10']
+[Opening "English Opening: King's English Variation, Reversed Sicilian"]
+
+['1. c4 e5 2. Nc3 d6 3. d3 f5 4. e4 Nf6 5. Bg5 Be7 6. Nf3 Nc6 7. Be2 f4 8. d4 Bg4 9. d5 Bxf3 10']
+[Opening "Caro-Kann Defense: Two Knights Attack"]
+
+['1. e4 c6 2. Nf3 d5 3. Nc3 d4 4. Ne2 c5 5. Ng3 Nc6 6. Bb5 Bd7 7. O-O a6 8. Bxc6 Bxc6 9. Ne5 Qc7 10']
+[Opening "Van't Kruijs Opening"]
+
+['1. e3 c6 2. d3 d5 3. c3 e5 4. b3 Be6 5. Bb2 Bd6 6. Nd2 Nd7 7. Be2 Ne7 8. Ngf3 h6 9. O-O O-O 10']
+[Opening "English Opening: Anglo-Indian Defense, King's Knight Variation"]
+
+['1. c4 Nf6 2. Nf3 c5 3. g3 e6 4. Bg2 d5 5. cxd5 exd5 6. Nc3 Nc6 7. e4 dxe4 8. Nxe4 Nxe4 9. Ng1 Nf6 10']
+[Opening "English Defense #2"]
+
+['1. d4 b6 2. g3 Bb7 3. f3 e6 4. Bg2 Nf6 5. Bg5 h6 6. Bh4 Be7 7. g4 Nxg4 8. Bxe7 Qxe7 9. Nc3 Ne3 10']
+[Opening "Queen's Indian Defense: Riumin Variation"]
+
+['1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. g3 Bb7 5. Bg2 Bb4+ 6. Bd2 Be7 7. O-O O-O 8. Bc3 Ne4 9. Ne5 Nxc3 10']
+[Opening "Sicilian Defense: Dragon Variation, Levenfish Variation"]
+
+['1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6 6. f4 Bg7 7. e5 dxe5 8. fxe5 Nh5 9. g4 Bxe5 10']
+[Opening "French Defense: Knight Variation"]
+
+['1. e4 e6 2. Nf3 d5 3. exd5 exd5 4. d4 Nf6 5. Bd3 Be7 6. O-O Be6 7. Bf4 Nc6 8. c3 Qd7 9. Nbd2 Bg4 10']
+[Opening "French Defense: Exchange Variation"]
+
+['1. d4 e6 2. e4 d5 3. exd5 exd5 4. c3 c5 5. Be3 cxd4 6. Qxd4 Nc6 7. Bb5 Ne7 8. Nf3 Be6 9. Ne5 a6 10']
+[Opening "Queen's Pawn Game: Symmetrical Variation"]
+
+['1. Nf3 d5 2. d4 Nf6 3. h3 e6 4. Ne5 Qd6 5. Bf4 Nc6 6. Bh2 Qb4+ 7. c3 Qa5 8. b4 Qb6 9. Nf3 Bd6 10']
+[Opening "Old Benoni Defense"]
+
+['1. d4 c5 2. c3 e6 3. e4 Nf6 4. e5 Nd5 5. a3 cxd4 6. cxd4 g6 7. Bd2 Qb6 8. Bc3 Nxc3 9. bxc3 Qb2 10']
+[Opening "English Opening: Symmetrical Variation"]
+
+['1. c4 c5 2. Qc2 d6 3. e4 Be6 4. Bd3 Nf6 5. Nf3 g6 6. O-O Bg7 7. Nc3 O-O 8. e5 dxe5 9. Nxe5 Nc6 10']
+[Opening "Four Knights Game"]
+
+['1. e4 e5 2. Nf3 Nf6 3. Nc3 Nc6 4. d3 Bb4 5. a3 Bd6 6. b4 O-O 7. b5 Nd4 8. Bg5 Nxf3+ 9. Qxf3 Be7 10']
+[Opening "King's Pawn Game: Wayward Queen Attack"]
+
+[]
+[Opening "Queen's Pawn Game #3"]
+
+['1. d4 d5 2. e3 Nf6 3. b3 e6 4. Bb2 c6 5. Nf3 g6 6. Ne5 Bg7 7. Bd3 O-O 8. Qf3 Nbd7 9. Nd2 Nxe5 10']
+[Opening "Pirc Defense #5"]
+
+['1. e4 d6 2. d4 g6 3. Be3 Bg7 4. c3 Nf6 5. f3 O-O 6. Qd2 c6 7. Bh6 Nbd7 8. Bxg7 Kxg7 9. g4 Qb6 10']
+[Opening "Sicilian Defense: Dragon, 6.Be3"]
+
+['1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6 6. Be3 Bg7 7. Bc4 O-O 8. O-O Nc6 9. Bb3 Bd7 10']
+[Opening "Italian Game: Hungarian Defense"]
+
+['1. e4 e5 2. Nf3 Nc6 3. Bc4 Be7 4. c3 Nf6 5. d4 exd4 6. cxd4 O-O 7. e5 Ne4 8. Qc2 Ng5 9. Bxg5 Bxg5 10']
+[Opening "King's Pawn Game: Wayward Queen Attack"]
+
+['1. e4 e5 2. Qh5 Nc6 3. Bc4 g6 4. Qf3 Nf6 5. c3 d5 6. exd5 Na5 7. d3 Nxc4 8. dxc4 Bg4 9. Qg3 Bd6 10']
+[Opening "Three Knights Opening"]
+
+['1. e4 e5 2. Nf3 Nc6 3. Nc3 d6 4. Bb5 Nf6 5. Bxc6+ bxc6 6. O-O Be6 7. Re1 Be7 8. d4 O-O 9. dxe5 dxe5 10']
+[Opening "King's Gambit Declined, Classical Variation #2"]
+
+['1. e4 e5 2. f4 Bc5 3. Nf3 d6 4. c3 Bg4 5. d4 Bxf3 6. gxf3 exd4 7. cxd4 Bb4+ 8. Nc3 Qh4+ 9. Ke2 Nd7 10']
+[Opening "Queen's Gambit Declined: Normal Defense"]
+
+['1. d4 e6 2. c4 Nf6 3. Nc3 d5 4. a3 Bd6 5. Bg5 c6 6. Nf3 O-O 7. e3 h6 8. Bh4 b6 9. Bd3 dxc4 10']
+[Opening "Reti Opening #2"]
+
+['1. Nf3 Nf6 2. d3 Nc6 3. g3 e5 4. Bg2 Bc5 5. O-O O-O 6. Bg5 d6 7. Nbd2 h6 8. Be3 Bxe3 9. fxe3 Ne7 10']
+[Opening "Bird Opening: Dutch Variation"]
+
+['1. f4 d5 2. Nf3 Bg4 3. e3 d4 4. exd4 Qxd4 5. Nxd4 Bxd1 6. Kxd1 Nd7 7. Bd3 Ngf6 8. b3 e6 9. Bb2 Be7 10']
+[Opening "Rat Defense: Small Center Defense"]
+
+['1. e4 e6 2. d4 d6 3. c4 Nd7 4. Nc3 c6 5. Nf3 Be7 6. Bd3 Ngf6 7. Be3 O-O 8. O-O a6 9. a4 b6 10']
+[Opening "Van't Kruijs Opening"]
+
+['1. e3 e5 2. Ne2 f5 3. Na3 Nf6 4. c3 d5 5. d4 e4 6. h4 Nc6 7. Nf4 Bd7 8. c4 dxc4 9. Bxc4 Qe7 10']
+[Opening "King's Knight Opening"]
+
+[]
+[Opening "Russian Game: Three Knights Game"]
+
+['1. e4 e5 2. Nf3 Nf6 3. Nc3 Bb4 4. Nd5 Nxd5 5. exd5 e4 6. Nd4 O-O 7. c3 Bc5 8. Nb3 Bb6 9. c4 d6 10']
+[Opening "Three Knights Opening #2"]
+
+['1. e4 e5 2. Nc3 Nc6 3. Nf3 Bb4 4. Bb5 Bxc3 5. dxc3 Nge7 6. O-O O-O 7. Bg5 f6 8. Bh4 a6 9. Bd3 b5 10']
+[Opening "Italian Game: Anti-Fried Liver Defense"]
+
+['1. e4 e5 2. Nf3 h6 3. Bc4 Nc6 4. Nc3 a6 5. d4 Bd6 6. dxe5 Bxe5 7. Qd5 Bxc3+ 8. bxc3 Qe7 9. O-O Nf6 10']
+[Opening "Queen's Pawn Game"]
+
+['1. d4 d5 2. f4 c6 3. Nf3 f6 4. e3 e5 5. c4 Bg4 6. h3 Bxf3 7. Qxf3 exf4 8. Qxf4 Bb4+ 9. Bd2 Qa5 10']
+[Opening "Sicilian Defense: Loewenthal Variation"]
+
+['1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 e5 5. Nb5 Nf6 6. Nd6+ Bxd6 7. Qxd6 Nxe4 8. Qd5 Ng5 9. Nc3 O-O 10']
+[Opening "French Defense: Advance Variation #2"]
+
+['1. e4 e6 2. d4 d5 3. e5 c5 4. c3 cxd4 5. cxd4 a6 6. Nc3 Bb4 7. Nf3 Nc6 8. a3 Ba5 9. Be2 b5 10']
+[Opening "Alekhine Defense: Four Pawns Attack"]
+
+['1. e4 Nf6 2. e5 Nd5 3. d4 Nb6 4. c4 d6 5. f4 dxe5 6. fxe5 g6 7. Nf3 Bg7 8. Be2 O-O 9. O-O Nc6 10']
+[Opening "Ruy Lopez"]
+
+['1. e4 e5 2. Nf3 Nc6 3. Bb5 Qf6 4. Nc3 a6 5. Ba4 Bc5 6. O-O Nge7 7. Ne2 d6 8. d4 exd4 9. b4 Bxb4 10']
+[Opening "Italian Game: Hungarian Defense"]
+
+['1. e4 e5 2. Nf3 Nc6 3. Bc4 Be7 4. c3 Nf6 5. d4 exd4 6. e5 Ng4 7. cxd4 d6 8. Qb3 O-O 9. exd6 Bxd6 10']
+[Opening "Saragossa Opening"]
+
+['1. c3 d5 2. d4 Nf6 3. b4 e6 4. g3 Bd6 5. Bg2 O-O 6. e3 Bd7 7. Nf3 Re8 8. O-O e5 9. a3 e4 10']
+[Opening "Nimzowitsch Defense"]
+
+['1. e4 Nc6 2. f4 g6 3. Nf3 Bg7 4. d4 d6 5. c4 Bg4 6. d5 Bxf3 7. Qxf3 Nd4 8. Qd3 c5 9. Nc3 e5 10']
+[Opening "King's Pawn Game: Damiano Defense"]
+
+['1. e4 e5 2. Nf3 f6 3. Bc4 Nh6 4. d4 d6 5. Bxh6 gxh6 6. dxe5 fxe5 7. Nc3 Rg8 8. Nd5 Be6 9. O-O c6 10']
+[Opening "Bishop's Opening: Vienna Hybrid"]
+
+['1. e4 e5 2. Bc4 Nf6 3. d3 Nc6 4. Nc3 Be7 5. Nge2 d6 6. O-O O-O 7. f4 Bg4 8. fxe5 dxe5 9. h3 Bh5 10']
+[Opening "Queen's Pawn Game: Chigorin Variation"]
+
+['1. Nf3 d5 2. d4 Nc6 3. Bf4 Bf5 4. e3 Nb4 5. Bd3 Qd7 6. h3 O-O-O 7. Ne5 Qe6 8. Nc3 f6 9. a3 Nxd3+ 10']
+[Opening "English Opening: Anglo-Scandinavian Defense"]
+
+['1. c4 d5 2. c5 e6 3. d4 Nf6 4. Nf3 Ne4 5. e3 Be7 6. g3 b6 7. Bg2 bxc5 8. O-O cxd4 9. exd4 Qd7 10']
+[Opening "Horwitz Defense"]
+
+['1. d4 e6 2. a3 d5 3. c4 Nf6 4. Nc3 Nc6 5. c5 g6 6. b4 a6 7. Bb2 Bg7 8. e3 O-O 9. h3 Ne4 10']
+[Opening "Sicilian Defense: Open #3"]
+
+['1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nxd4 5. Qxd4 d6 6. Nc3 e5 7. Qd3 Be7 8. Be3 Nf6 9. O-O-O O-O 10']
+[Opening "Old Benoni Defense"]
+
+['1. d4 c5 2. c3 cxd4 3. cxd4 d5 4. e3 Bf5 5. Bd3 Bxd3 6. Qxd3 e6 7. Nf3 Nf6 8. Ne5 Nc6 9. Nd2 Nxe5 10']
+[Opening "Italian Game: Anti-Fried Liver Defense"]
+
+[]
+[Opening "Sicilian Defense: Snyder Variation"]
+
+['1. e4 c5 2. b3 Nc6 3. Bb2 d6 4. Bb5 e5 5. d3 a6 6. Bxc6+ bxc6 7. Nc3 Be7 8. g3 Nf6 9. f4 Bg4 10. Qd2 O-O 11. f5 d5 12. h3 d4 13. Na4 Bh5 14. g4 Bxg4 15. hxg4 Nxg4 16. Qg2 Bh4+ 17. Kd2 Qg5+ 18. Ke2 Qe3+ 19. Kf1 Qf4+ 20. Qf3 Ne3+ 21. Ke2 Bg5 22. Nh3 Qxf3+ 23. Kxf3 Be7 24. Rac1 g6 25. Ba3 gxf5 26. Bxc5 Bxc5 27. Nxc5 f4 28. Nd7 f6 29. Nf2 Rf7 30. Nc5 Kh8 31. Rhg1 h5 32. Rh1 Rh7 33. Nd1 Raa7 34. Nxe3 dxe3 35. Rh4 Kg7 36. Rg1+ Kf7 37. Rgh1 Kg6 38. Na4 Ra8 39. Nb2 Rah8 40. Nc4 Kf7 41. Nd6+ Ke6 42. Nf5 a5 43. a4 c5 44. Rg1 Kd7 45. Rg7+ Rxg7 46. Nxg7 Ke7 47. Rxh5 Rxh5 48. Nxh5 Ke6 49. Ng7+ Kf7 50. Nf5 Ke6 51. Ke2 Kd7 52. Nh4 Ke6 53. Nf3 Kd7 54. Ne1 Kc6 55. c4 Kd6 56. Nc2 Kc6 57. Kf3 Kd6 58. Kg4 Ke6 59. Kh5 Ke7 60. Kh6 Ke6 61. Kg6 Ke7 62. Kf5 Kf7 63. Ne1 Ke7 64. Nf3 Kf7 65. Kg4 Ke6 66. Kh3 f5 67. Kg2 fxe4 68. dxe4 Kd6 69. Ng5 Kd7 70. Kf3 Kd6 71. Nf7+ Ke6 72. Nd8+ Kd6 73. Nb7+ Kc6 74. Nxa5+ Kb6 75. b4 cxb4 76. Nb3 Kc6 77. Ke2 Kb6 78. c5+ Kc6 79. Kd3 Kc7 80. Kc4 f3 81. Kd3 f2 82. Ke2 Kc6 83. a5 Kb5 84. Kf1 Kc6 85. a6 Kc7 86. Na5 Kb8 87. Nc6+ Kc7 88. Nxe5 b3 89. Nc4 Kb8 90. e5 Kc7 91. e6 b2 92. Nxb2 Kc6 93. a7 Kb7 94. e7 Kxa7 95. e8=Q Ka6 96. Qxe3 Kb5 97. Qd4 Kc6 98. Kxf2 Kb5 99. Qd6 Kb4 100. c6+ Kb3 101. c7 Ka2 102. c8=Q Ka1 103. Nd3 Kb1 104. Nf4 Kb2 10']
+[Opening "Queen's Pawn Game: Chigorin Variation"]
+
+['1. d4 d5 2. Nf3 Nc6 3. h3 Bd7 4. a3 e5 5. dxe5 Be6 6. Bf4 Bc5 7. Nc3 Nge7 8. Ng5 Qd7 9. e3 O-O-O 10']
+[Opening "Gedult's Opening"]
+
+['1. f3 d5 2. e3 d4 3. Bb5+ c6 4. Ba4 dxe3 5. dxe3 Qxd1+ 6. Kxd1 Na6 7. Bd2 Nb4 8. g4 b5 9. Bxb4 bxa4 10']
+[Opening "Nimzo-Larsen Attack: Modern Variation #2"]
+
+['1. b3 e5 2. Bb2 Nf6 3. d4 e4 4. d5 d6 5. c4 Bf5 6. e3 Na6 7. g3 Nc5 8. Nc3 Nd3+ 9. Bxd3 exd3 10']
+[Opening "Queen's Pawn Game: Colle System"]
+
+['1. Nf3 d5 2. e3 Nf6 3. d4 Bg4 4. Nc3 e6 5. Be2 c6 6. h3 Bf5 7. g4 Bg6 8. g5 Ne4 9. O-O Bd6 10']
+[Opening "Sicilian Defense: Canal Attack, Main Line"]
+
+[]
+[Opening "Scandinavian Defense: Main Line"]
+
+['1. e4 d5 2. exd5 Qxd5 3. Nc3 Qa5 4. d4 c6 5. Nf3 b5 6. Be2 b4 7. Ne4 f5 8. Ng3 f4 9. Ne4 g5 10']
+[Opening "Sicilian Defense: Dragon Variation, Yugoslav Attack, Early Deviations"]
+
+['1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6 6. Be3 Bg7 7. f3 a6 8. Bc4 b5 9. Bb3 Bb7 10']
+[Opening "French Defense: Steinitz Attack"]
+
+['1. e4 e6 2. e5 d5 3. Nf3 f6 4. Bb5+ c6 5. Ba4 Bd7 6. O-O b5 7. Bb3 c5 8. d4 c4 9. Re1 cxb3 10']
+[Opening "Sicilian Defense: Smith-Morra Gambit #2"]
+
+['1. e4 c5 2. d4 cxd4 3. Qxd4 Nc6 4. Qe3 e5 5. g3 Nf6 6. Bg2 b6 7. Ne2 Bc5 8. Qg5 h6 9. Qxg7 Rg8 10']
+[Opening "Sicilian Defense: Kalashnikov Variation"]
+
+['1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 e5 5. Nb5 Nc6 6. Nb1c3 Nf6 7. Bg5 Be7 8. Bc4 a6 9. Bxf6 gxf6 10']
+[Opening "Slav Defense #3"]
+
+['1. d4 d5 2. c4 dxc4 3. Nc3 c6 4. e3 b5 5. a4 a6 6. axb5 cxb5 7. Nxb5 e6 8. Nc3 Bb7 9. Nf3 f6 10']
+[Opening "Rat Defense: Small Center Defense"]
+
+['1. e4 d6 2. d4 e6 3. c4 c6 4. Nc3 Nd7 5. Nf3 Be7 6. Be3 Ngf6 7. Bd3 O-O 8. Qc2 h6 9. h3 e5 10']
+[Opening "King's Pawn Game: Wayward Queen Attack"]
+
+['1. e4 e5 2. Qh5 Qf6 3. d3 Nc6 4. Bg5 Qg6 5. Qxg6 hxg6 6. c3 f6 7. Be3 g5 8. d4 exd4 9. Bxd4 Nh6 10']
+[Opening "English Opening: King's English Variation, Two Knights Variation, Smyslov System"]
+
+['1. c4 e5 2. Nc3 Nf6 3. g3 Bb4 4. Nf3 Bxc3 5. dxc3 e4 6. Nd4 c5 7. Nf5 d5 8. Nxg7+ Ke7 9. cxd5 Qxd5 10']
+[Opening "King's Gambit"]
+
+['1. e4 e5 2. f4 d6 3. Nf3 f6 4. Bc4 Qe7 5. Nc3 Bg4 6. h3 Bxf3 7. Qxf3 c6 8. d3 Nh6 9. Bd2 Nd7 10']
+[Opening "French Defense: Advance Variation, Milner-Barry Gambit"]
+
+['1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 Bd7 7. Bc2 Nh6 8. O-O Nf5 9. Be3 Qxb2 10']
+[Opening "Scotch Game: Schmidt Variation"]
+
+['1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Nxd4 Nf6 5. Nc3 Bb4 6. f3 O-O 7. Bd3 Nxd4 8. O-O d6 9. a3 Bc5 10']
+[Opening "Queen's Pawn Game: Mason Attack"]
+
+['1. d4 d5 2. Bf4 Nc6 3. e3 Bf5 4. Nf3 e6 5. Bd3 Bxd3 6. Qxd3 Nf6 7. O-O Bd6 8. Nbd2 O-O 9. a3 Nh5 10']
+[Opening "Sicilian Defense: Kalashnikov Variation"]
+
+['1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 e5 5. Nb5 Nc6 6. Nb1c3 Nf6 7. Be3 Be7 8. Qd2 a6 9. Na3 b5 10']
+[Opening "Benoni Defense: Benoni Gambit Accepted"]
+
+['1. d4 c5 2. dxc5 e6 3. b4 a5 4. c3 axb4 5. cxb4 Qf6 6. Nc3 Qxc3+ 7. Bd2 Qd4 8. e3 Qf6 9. a3 Nc6 10']
+[Opening "King's Gambit"]
+
+['1. e4 e5 2. f4 d6 3. Nf3 Bg4 4. Bc4 Nc6 5. c3 Nf6 6. d3 Be7 7. h3 Bxf3 8. Qxf3 a6 9. a3 b5 10']
+[Opening "Owen Defense"]
+
+['1. e4 b6 2. d4 d5 3. exd5 Qxd5 4. Nc3 Qa5 5. Nf3 Bb7 6. Bd3 Qh5 7. O-O f5 8. Ne5 Qxd1 9. Rxd1 e6 10']
+[Opening "Sicilian Defense: Alapin Variation"]
+
+['1. e4 c5 2. c3 d6 3. d4 cxd4 4. cxd4 Nc6 5. Be3 Qa5+ 6. Nc3 e6 7. a3 Be7 8. Bd3 Nf6 9. Qc2 O-O 10']
+[Opening "Queen's Pawn Game: Chigorin Variation"]
+
+['1. d4 d5 2. Nf3 Nc6 3. e3 Nf6 4. Bd3 e6 5. c4 Be7 6. Bd2 b6 7. Ne5 Nxe5 8. dxe5 Nd7 9. Na3 Nxe5 10']
+[Opening "English Opening: Anglo-Scandinavian Defense"]
+
+['1. c4 d5 2. g3 dxc4 3. Bg2 e6 4. Qa4+ Nd7 5. Qxc4 Ngf6 6. Nc3 h6 7. a4 Be7 8. d3 O-O 9. Nf3 a6 10']
+[Opening "King's Gambit"]
+
+['1. e4 e5 2. f4 d6 3. Nf3 Nc6 4. Bc4 Bg4 5. c3 Nf6 6. d3 Be7 7. h3 Bxf3 8. Qxf3 O-O 9. O-O a6 10']
+[Opening "English Opening: King's English Variation"]
+
+['1. c4 e5 2. d3 Nc6 3. a3 Nf6 4. e3 d5 5. b4 dxc4 6. dxc4 Bd7 7. Bb2 Bd6 8. Ne2 Bg4 9. Nd2 O-O 10']
+[Opening "Scotch Game"]
+
+['1. e4 e5 2. Nf3 Nc6 3. d4 Nf6 4. Bg5 h6 5. Bh4 g5 6. Bg3 Nxe4 7. Nxe5 Bg7 8. Nxc6 dxc6 9. c3 O-O 10']
+[Opening "Owen Defense"]
+
+['1. e4 b6 2. d4 Bb7 3. Nc3 e6 4. f4 Qh4+ 5. g3 Qd8 6. Nf3 Nf6 7. Qe2 c5 8. Be3 cxd4 9. Bxd4 Nc6 10']
+[Opening "Sicilian Defense"]
+
+['1. e4 c5 2. Nf3 d6 3. Nc3 Nc6 4. Bb5 Bd7 5. Qe2 a6 6. Bxc6 Bxc6 7. d3 b5 8. O-O Nf6 9. Bg5 g6 10']
+[Opening "Queen's Pawn Game: Krause Variation"]
+
+['1. d4 d5 2. Nf3 c5 3. dxc5 Nc6 4. Nc3 Nf6 5. Bg5 e6 6. Bxf6 Qxf6 7. Nd4 Nxd4 8. e3 Nc6 9. Bb5 Bxc5 10']
+[Opening "Sicilian Defense"]
+
+['1. e4 c5 2. d3 d6 3. Nf3 Nc6 4. Be2 Nf6 5. Bg5 g6 6. Bxf6 exf6 7. O-O Bg7 8. c3 f5 9. exf5 Bxf5 10']
+[Opening "Nimzo-Larsen Attack: Indian Variation"]
+
+['1. b3 Nf6 2. Bb2 d5 3. Nf3 Bf5 4. g3 Nbd7 5. Bg2 c6 6. d4 Bg6 7. O-O Qc7 8. Nh4 e6 9. Nxg6 hxg6 10']
+[Opening "Italian Game: Two Knights Defense"]
+
+['1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. O-O d5 5. exd5 Nxd5 6. Nc3 Nxc3 7. bxc3 f6 8. Re1 Na5 9. Bb5+ c6 10']
+[Opening "Sicilian Defense: Closed Variation"]
+
+['1. e4 c5 2. Nc3 d6 3. Bc4 Nc6 4. f4 a6 5. Nf3 b5 6. Be2 e6 7. d4 cxd4 8. Nxd4 Bb7 9. O-O Nf6 10']
+[Opening "St. George Defense"]
+
+['1. e4 e6 2. d4 a6 3. Nc3 Bb4 4. Bc4 Bxc3+ 5. bxc3 b5 6. Bb3 a5 7. a4 Ba6 8. axb5 Bxb5 9. Nf3 Nf6 10']
+[Opening "French Defense: Marshall Variation"]
+
+['1. e4 e6 2. d4 d5 3. Nc3 c5 4. exd5 exd5 5. Bb5+ Nc6 6. Qe2+ Be7 7. dxc5 d4 8. Ne4 Qa5+ 9. Bd2 Qc7 10']
+[Opening "English Opening: Anglo-Scandinavian Defense"]
+
+['1. c4 d5 2. e3 d4 3. exd4 Qxd4 4. Nc3 e5 5. Nf3 Qd6 6. a3 Bg4 7. b4 Nf6 8. Bb2 Bxf3 9. Qxf3 e4 10']
+[Opening "Philidor Defense #4"]
+
+['1. e4 e5 2. Nf3 d6 3. Bc4 Be7 4. Nc3 c6 5. h3 Nf6 6. d4 exd4 7. Nxd4 Kf8 8. O-O Kg8 9. f4 b5 10']
+[Opening "King's Pawn Game: Napoleon Attack"]
+
+['1. e4 e5 2. Qf3 d6 3. Nc3 Nf6 4. Nh3 Bg4 5. Qg3 h6 6. Nd5 Bxh3 7. Nxf6+ gxf6 8. Qxh3 d5 9. Bd3 dxe4 10']
+[Opening "Sicilian Defense"]
+
+['1. e4 c5 2. Nf3 d6 3. Bc4 a6 4. O-O Nc6 5. d4 cxd4 6. Nxd4 Nf6 7. Nc3 g6 8. Bg5 Bg7 9. Re1 O-O 10']
+[Opening "King's Pawn Game: Busch-Gass Gambit"]
+
+['1. e4 e5 2. Nf3 Bc5 3. Nxe5 f6 4. Nf3 d6 5. Bc4 Bg4 6. h3 Bh5 7. g4 Bg6 8. d3 Ne7 9. g5 Nec6 10']
+[Opening "Horwitz Defense"]
+
+['1. d4 e6 2. Nc3 Bb4 3. Bd2 Nc6 4. e3 d5 5. Na4 Bxd2+ 6. Qxd2 Nf6 7. h3 O-O 8. f3 a6 9. b4 b5 10']
+[Opening "Queen's Gambit Accepted: Saduleto Variation"]
+
+['1. d4 d5 2. c4 dxc4 3. e4 e6 4. Bxc4 Bb4+ 5. Bd2 Bxd2+ 6. Nxd2 c6 7. Ngf3 b5 8. Bb3 Nf6 9. O-O O-O 10']
+[Opening "Sicilian Defense: Smith-Morra Gambit"]
+
+['1. e4 c5 2. d4 cxd4 3. c3 dxc3 4. Nxc3 Nc6 5. Bc4 Nf6 6. Nf3 e5 7. Ng5 d5 8. exd5 Nxd5 9. Bxd5 Be6 10']
+[Opening "Danish Gambit Accepted, Copenhagen Defense"]
+
+['1. e4 e5 2. d4 exd4 3. c3 dxc3 4. Bc4 cxb2 5. Bxb2 Bb4+ 6. Nc3 Bxc3+ 7. Bxc3 f6 8. Qb3 Ne7 9. Bf7+ Kf8 10']
+[Opening "Petrov's Defense"]
+
+['1. e4 e5 2. Nf3 Nf6 3. d3 Nc6 4. Bg5 h6 5. Bh4 g5 6. Bg3 g4 7. Nxe5 Nxe5 8. Bxe5 Qe7 9. Bxc7 Qb4+ 10']
+[Opening "Indian Game: Pawn Push Variation"]
+
+['1. d4 Nf6 2. d5 c6 3. c4 cxd5 4. cxd5 e6 5. d6 Qa5+ 6. Nc3 Nc6 7. Bg5 Qxg5 8. e3 g6 9. Nb5 Kd8 10']
+[Opening "French Defense: Winawer Variation, Winckelmann-Riemer Gambit"]
+
+['1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. a3 Ba5 5. b4 Bb6 6. a4 a6 7. a5 Ba7 8. b5 Bd7 9. Ba3 Ne7 10']
+[Opening "Philidor Defense"]
+
+['1. e4 e5 2. Nf3 d6 3. d4 f6 4. Bc4 c5 5. dxe5 Qa5+ 6. Bd2 Qa4 7. Bb3 Qxe4+ 8. Be3 Bg4 9. exd6 Kd7 10']
+[Opening "Ruy Lopez: Marshall Attack, Steiner Variation"]
+
+['1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O b5 6. Bb3 Be7 7. Re1 O-O 8. c3 d5 9. exd5 e4 10']
+[Opening "Queen's Gambit Refused: Marshall Defense"]
+
+['1. d4 d5 2. c4 Nf6 3. a3 Nc6 4. Nc3 g6 5. e3 Bg7 6. c5 O-O 7. h3 e5 8. Nf3 exd4 9. exd4 Ne4 10']
+[Opening "Owen Defense"]
+
+['1. e4 b6 2. d4 Bb7 3. f4 Bxe4 4. c3 e6 5. Bc4 Bxg2 6. Qg4 Bxh1 7. Be3 Bd5 8. Bd3 Nf6 9. Qg3 Be4 10']
+[Opening "Sicilian Defense"]
+
+[]
+[Opening "Benoni Defense: Benoni Gambit Accepted"]
+
+['1. d4 c5 2. dxc5 e6 3. Nc3 Bxc5 4. e4 Qb6 5. Qe2 Nf6 6. Na4 Qb4+ 7. Nc3 Nc6 8. Qc4 Qa5 9. Bd2 Qb6 10']
+[Opening "King's Pawn Game: McConnell Defense"]
+
+['1. e4 e5 2. Nf3 Qf6 3. Bc4 Nh6 4. d3 Nc6 5. Nc3 Nd4 6. Nxd4 exd4 7. Nd5 Qd6 8. Bf4 Qc6 9. Nxc7+ Kd8 10']
+[Opening "English Opening: Symmetrical Variation"]
+
+['1. c4 c5 2. Nf3 e6 3. g3 Nc6 4. d4 Nf6 5. Nc3 cxd4 6. Nb5 e5 7. Bd2 a6 8. Na3 Bxa3 9. bxa3 O-O 10']
+[Opening "Sicilian Defense: Old Sicilian"]
+
+['1. e4 c5 2. Nf3 Nc6 3. Nc3 e6 4. Be2 Nf6 5. d3 h6 6. Bf4 a6 7. Ne5 Bd6 8. Nxc6 bxc6 9. Bxd6 Bb7 10']
+[Opening "Slav Defense #2"]
+
+['1. d4 d5 2. c4 c6 3. Nc3 Nf6 4. Bf4 g6 5. Be5 Bg7 6. cxd5 cxd5 7. e3 O-O 8. h3 a6 9. Nf3 Nc6 10']
+[Opening "Center Game: Normal Variation"]
+
+['1. e4 e5 2. d4 exd4 3. Qxd4 Nc6 4. Qd3 d6 5. Be2 Be6 6. f4 Qd7 7. Nf3 O-O-O 8. O-O h5 9. f5 Bxf5 10']
+[Opening "Sicilian Defense: Smith-Morra Gambit Declined, Alapin Formation"]
+
+['1. e4 c5 2. d4 cxd4 3. c3 Nf6 4. e5 dxc3 5. exf6 cxb2 6. Bxb2 gxf6 7. Bc4 a6 8. Nf3 b5 9. Bb3 Nc6 10']
+[Opening "Sicilian Defense: Delayed Alapin"]
+
+[]
+[Opening "English Opening: King's English Variation, Two Knights Variation"]
+
+['1. c4 e5 2. Nc3 Nf6 3. e4 c6 4. a3 Bc5 5. Nf3 d6 6. h3 O-O 7. g4 Re8 8. b4 Bb6 9. Bb2 Nbd7 10']
+[Opening "Alekhine Defense: Normal Variation"]
+
+['1. e4 Nf6 2. e5 Nd5 3. Bc4 e6 4. Nc3 Nxc3 5. dxc3 d6 6. Nf3 d5 7. Bb3 Nc6 8. c4 Bb4+ 9. c3 Bc5 10']
+[Opening "King's Pawn Game: Damiano Defense"]
+
+['1. e4 e5 2. Nf3 f6 3. Nxe5 fxe5 4. Qh5+ g6 5. Qxe5+ Qe7 6. Qxh8 Qxe4+ 7. Kd1 Qg4+ 8. f3 Qe6 9. Qc3 d5 10']
+[Opening "French Defense: La Bourdonnais Variation"]
+
+['1. e4 e6 2. f4 d5 3. e5 c5 4. Nf3 Nc6 5. c3 Qb6 6. d4 Bd7 7. Bd3 c4 8. Bc2 O-O-O 9. O-O f6 10']
+[Opening "Mieses Opening: Reversed Rat"]
+
+['1. d3 e5 2. d4 Qf6 3. dxe5 Qf5 4. Qd4 c5 5. Qd3 c4 6. Qxf5 g6 7. Qe4 b5 8. Be3 d6 9. Qxa8 Nf6 10']
+[Opening "Queen's Gambit Refused: Marshall Defense"]
+
+['1. d4 Nf6 2. c4 d5 3. a3 Ne4 4. e3 e6 5. h3 c5 6. dxc5 Bxc5 7. b4 Qf6 8. Nf3 Bd6 9. Ra2 b6 10']
+[Opening "Nimzo-Larsen Attack: Dutch Variation"]
+
+['1. b3 f5 2. Bb2 Nf6 3. c4 e5 4. Bxe5 d6 5. Bb2 b6 6. g3 Bb7 7. Nf3 Nbd7 8. Bg2 Ne5 9. O-O Nxf3+ 10']
+[Opening "Bishop's Opening: Berlin Defense"]
+
+['1. e4 e5 2. Bc4 Nf6 3. d3 Bc5 4. h3 O-O 5. Bg5 c6 6. Qg4 d5 7. exd5 Bxg4 8. hxg4 cxd5 9. Bb5 a6 10']
+[Opening "Pirc Defense #5"]
+
+['1. e4 d6 2. d4 c6 3. c4 Nd7 4. Nf3 e6 5. Bd3 Be7 6. Be3 Ngf6 7. Qd2 Ng4 8. Bf4 e5 9. dxe5 Ngxe5 10']
+[Opening "English Opening: King's English Variation, Two Knights Variation, Reversed Dragon"]
+
+['1. c4 e5 2. Nc3 Nf6 3. g3 d5 4. cxd5 Nxd5 5. Nxd5 Qxd5 6. Nf3 e4 7. Ng1 e3 8. dxe3 Qxh1 9. Nf3 Bh3 10']
+[Opening "Center Game: Normal Variation"]
+
+['1. e4 e5 2. d4 exd4 3. Qxd4 Nc6 4. Qd1 Nf6 5. Nc3 Bb4 6. Bd2 Bxc3 7. Bxc3 Nxe4 8. Bxg7 Rg8 9. Bd4 Qe7 10']
+[Opening "Ruy Lopez: Bird Variation"]
+
+['1. e4 e5 2. Nf3 Nc6 3. Bb5 Nd4 4. Nxd4 exd4 5. d3 c6 6. Bc4 b5 7. Bb3 a5 8. a4 b4 9. O-O d6 10']
+[Opening "Sicilian Defense: Kan Variation, Wing Attack"]
+
+['1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 a6 5. Nc3 b5 6. Be3 Qc7 7. a3 Bb7 8. Qd2 Nf6 9. f3 Be7 10']
+[Opening "Scandinavian Defense"]
+
+['1. e4 d5 2. e5 f6 3. d4 fxe5 4. dxe5 d4 5. f4 Bf5 6. g4 Nh6 7. gxf5 g6 8. fxg6 hxg6 9. Nf3 Nf5 10']
+[Opening "Van't Kruijs Opening"]
+
+['1. e3 b6 2. b3 Bb7 3. Bb2 c5 4. f4 Nf6 5. Nf3 e6 6. a4 Be7 7. Bd3 O-O 8. Ng5 h6 9. h4 d5 10']
+[Opening "Sicilian Defense: McDonnell Attack"]
+
+['1. e4 c5 2. f4 d6 3. f5 Nf6 4. h3 e5 5. d3 Be7 6. Bg5 Nc6 7. Nd2 O-O 8. Qf3 b5 9. O-O-O Nd4 10']
+[Opening "Old Indian Defense"]
+
+['1. c4 d6 2. d4 e6 3. e4 c6 4. f4 d5 5. exd5 cxd5 6. cxd5 exd5 7. Bb5+ Bd7 8. Bxd7+ Qxd7 9. Nc3 Nc6 10']
+[Opening "French Defense: Knight Variation"]
+
+['1. e4 e6 2. Nf3 d6 3. Nc3 Nf6 4. d4 Nc6 5. d5 Nb4 6. dxe6 fxe6 7. e5 dxe5 8. Nxe5 c5 9. a3 Nbd5 10']
+[Opening "French Defense: Normal Variation"]
+
+['1. e4 e6 2. d4 Nc6 3. Nf3 Nf6 4. Bd3 d5 5. e5 Ne4 6. Bxe4 dxe4 7. Bg5 f6 8. exf6 gxf6 9. Nfd2 fxg5 10']
+[Opening "Sicilian Defense: Lasker-Pelikan Variation, Sveshnikov Variation"]
+
+['1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 e5 6. Ndb5 d6 7. Bg5 a6 8. Na3 b5 9. Bxf6 gxf6 10']
+[Opening "Scandinavian Defense: Mieses-Kotroc Variation"]
+
+['1. e4 d5 2. exd5 Qxd5 3. Nc3 Qd8 4. d3 e6 5. Nf3 h6 6. Be2 Nf6 7. h3 Bd6 8. O-O O-O 9. Re1 c6 10']
+[Opening "Englund Gambit"]
+
+['1. d4 e5 2. dxe5 Nc6 3. Nf3 d6 4. Bf4 f6 5. exf6 Nxf6 6. Bg5 h6 7. Bxf6 Qxf6 8. Nc3 Bf5 9. Nd5 Qd8 10']
+[Opening "Indian Game: Pawn Push Variation"]
+
+['1. d4 Nf6 2. d5 d6 3. Bg5 c6 4. Bxf6 exf6 5. dxc6 Nxc6 6. Nf3 Be7 7. c3 O-O 8. e3 Be6 9. Bd3 Ne5 10']
+[Opening "King's Pawn Game: Wayward Queen Attack"]
+
+['1. e4 e5 2. Qh5 Nc6 3. Bc4 g6 4. Qd1 Nf6 5. d3 Na5 6. Nf3 Nxc4 7. dxc4 Bb4+ 8. c3 Bd6 9. O-O b6 10']
+[Opening "Nimzo-Larsen Attack: English Variation"]
+
+['1. b3 c5 2. Bb2 Nc6 3. c4 e5 4. Nc3 f5 5. e3 Nf6 6. g3 d5 7. cxd5 Nxd5 8. Bg2 Be6 9. Nge2 Be7 10']
+[Opening "King's Gambit Accepted, King's Knight Gambit"]
+
+['1. e4 e5 2. f4 exf4 3. Nf3 f6 4. Bc4 h6 5. O-O a6 6. d4 b5 7. Bb3 c6 8. Bxf4 d6 9. c3 Be7 10']
+[Opening "Sicilian Defense: Buecker Variation"]
+
+['1. e4 c5 2. Nf3 h6 3. Nc3 Nc6 4. Bc4 a6 5. d4 cxd4 6. Nxd4 Nf6 7. Nxc6 bxc6 8. h3 e6 9. O-O Bb4 10']
+[Opening "Nimzo-Larsen Attack: Modern Variation #2"]
+
+['1. b3 e5 2. Bb2 d6 3. e3 c5 4. d4 e4 5. g3 b6 6. Bh3 Bxh3 7. Nxh3 Qd7 8. Ng1 Nf6 9. h3 Be7 10']
+[Opening "Rat Defense: Small Center Defense"]
+
+['1. e4 e6 2. d4 d6 3. Nc3 h6 4. Bf4 a6 5. d5 e5 6. Bg3 Be7 7. f4 Nd7 8. fxe5 Nxe5 9. Qe2 g5 10']
+[Opening "Sicilian Defense"]
+
+['1. e4 c5 2. Nf3 d6 3. Bc4 a6 4. O-O e6 5. Nc3 Nf6 6. d3 d5 7. exd5 exd5 8. Re1+ Be7 9. Bb3 O-O 10']
+[Opening "Caro-Kann Defense"]
+
+[]
+[Opening "Bird Opening"]
+
+['1. f4 e6 2. Nf3 Nf6 3. c4 b6 4. Nc3 Bb7 5. d4 Be7 6. e3 d6 7. Bd3 O-O 8. O-O h6 9. e4 Nbd7 10']
+[Opening "Benoni Defense: Benoni Gambit Accepted"]
+
+['1. d4 c5 2. dxc5 e6 3. Nc3 Bxc5 4. e3 Nf6 5. Nf3 d5 6. Bd3 Bd7 7. Ne5 Nc6 8. Ng4 Nxg4 9. Qxg4 Ne5 10']
+[Opening "Sicilian Defense: Old Sicilian"]
+
+['1. e4 c5 2. Nf3 Nc6 3. Nc3 Qc7 4. d4 cxd4 5. Nxd4 e5 6. Nd5 Qb8 7. Nxc6 bxc6 8. Nc3 Bb4 9. Bd2 Bb7 10']
+[Opening "Sicilian Defense: Alapin Variation"]
+
+['1. e4 c5 2. c3 e5 3. Nf3 d6 4. d4 Bg4 5. Nbd2 Be7 6. dxe5 Nh6 7. exd6 Bxd6 8. Be2 O-O 9. O-O Nc6 10']
+[Opening "King's Pawn Game: Beyer Gambit"]
+
+['1. e4 d5 2. d4 e5 3. dxe5 dxe4 4. Qxd8+ Kxd8 5. Nc3 f6 6. exf6 Nxf6 7. Bg5 h6 8. Bf4 g5 9. Bg3 Be6 10']
+[Opening "Sicilian Defense"]
+
+['1. e4 c5 2. Nf3 d6 3. Bc4 Nf6 4. Nc3 g6 5. Nd5 Bg7 6. c3 a6 7. d4 cxd4 8. cxd4 b5 9. Bb3 Nxe4 10']
+[Opening "Italian Game: Two Knights Defense, Fritz Variation"]
+
+['1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. Ng5 d5 5. exd5 Nd4 6. Nxf7 Kxf7 7. d6+ Be6 8. Bxe6+ Nxe6 9. dxc7 Qxc7 10']
+[Opening "Nimzo-Larsen Attack: Indian Variation"]
+
+['1. b3 Nf6 2. Bb2 Nc6 3. c4 d5 4. cxd5 Nxd5 5. Nc3 e5 6. e3 Ncb4 7. a3 Nxc3 8. Bxc3 Nd3+ 9. Bxd3 Qxd3 10']
+[Opening "Sicilian Defense: Dragon Variation"]
+
+['1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6 6. Bc4 Bg7 7. f3 Nbd7 8. Be3 a6 9. Qd2 Ne5 10']
+[Opening "Queen's Pawn Game: Franco-Sicilian Defense"]
+
+['1. e4 e6 2. d4 c5 3. Nf3 Nf6 4. Bd3 d5 5. e5 Ng8 6. Ng5 c4 7. Bf1 Be7 8. Nf3 f6 9. Bf4 fxe5 10']
+[Opening "Queen's Gambit Accepted: Old Variation"]
+
+['1. d4 d5 2. c4 dxc4 3. e3 b5 4. a3 c6 5. h3 Nf6 6. Nf3 Be6 7. Nc3 Qd7 8. Be2 Bd5 9. Nxd5 Qxd5 10']
+[Opening "Van't Kruijs Opening"]
+
+['1. e3 b6 2. Ne2 Bb7 3. d3 Nf6 4. Bd2 g6 5. Na3 Bg7 6. Rg1 O-O 7. c4 Nh5 8. Qc2 Nc6 9. g4 Nf6 10']
+[Opening "Queen's Pawn Game: Colle System"]
+
+['1. d4 d5 2. Nf3 Nf6 3. e3 Bg4 4. Be2 Na6 5. a3 c5 6. dxc5 Nxc5 7. O-O Qc7 8. Bb5+ Kd8 9. h3 Bxf3 10']
+[Opening "Nimzo-Larsen Attack: Indian Variation"]
+
+['1. b3 Nf6 2. Bb2 e6 3. Bxf6 Qxf6 4. c3 b6 5. e3 Bb7 6. f3 Bb4 7. a3 Be7 8. b4 d6 9. Qc2 Nd7 10']
+[Opening "Benko Gambit"]
+
+['1. d4 Nf6 2. c4 c5 3. d5 b5 4. Nc3 bxc4 5. e4 d6 6. Bxc4 Bg4 7. Nf3 g6 8. h3 Bc8 9. O-O Bg7 10']
+[Opening "Queen's Pawn Game #2"]
+
+['1. d4 d5 2. e3 e6 3. Nc3 c5 4. Bd3 Nf6 5. Bd2 Nc6 6. f3 Bd7 7. dxc5 Bxc5 8. Nge2 Qc7 9. Nb5 Qb6 10']

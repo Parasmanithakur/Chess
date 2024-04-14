@@ -1,0 +1,4 @@
+import re
+x="from stephen.marquard@uct.ac.za sat jan 5"
+y=re.findall('\s+@\s+',x)
+print(y)
